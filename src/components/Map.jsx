@@ -1,18 +1,24 @@
+
 import React, { useEffect, useState } from 'react'
 import { MapContainer, TileLayer, useMap, LayersControl, LayerGroup, ScaleControl } from 'react-leaflet'
 import L from 'leaflet'
 import ResetViewControl from '@20tab/react-leaflet-resetview'
 import '../css/Map.css'
 
+
 import Roadworks from './Roadworks'
 import TrafficCamera from './TrafficCamera'
 import TrafficNews from './TrafficNews'
+import AddIncident from './AddIncident'
+import CurrentLocation from './CurrentLocation'
 
 const center = [22.2992961, 114.1894218]
 const zoom = 14
 
 const Map = () => {
-  
+
+
+
   return (
     <>
       <TrafficNews />
@@ -22,6 +28,8 @@ const Map = () => {
           icon={"🌎"}
           />
         <ScaleControl imperial={false} />
+        {/* <CurrentLocation /> */}
+        <AddIncident />
         <TileLayer
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"

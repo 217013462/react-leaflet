@@ -6,7 +6,7 @@ import http from '../common/http-common'
 const popupCamera = {
   width: "200px",
   height: "175px"
-};
+}
 
 const TrafficCamera = () => {
 
