@@ -1,31 +1,26 @@
-import React, { useEffect, useState, Component } from 'react'
-import { useMapEvents, Marker, Popup } from 'react-leaflet'
-import L, { LeafletMouseEvent, Map } from "leaflet"
+import React from 'react'
+import { useMapEvents } from 'react-leaflet'
 import Control from 'react-leaflet-custom-control'
+import { Button } from 'antd'
+import { EnvironmentOutlined } from '@ant-design/icons'
 
 const CurrentLocation = () => {
 
-  const [position, setPosition] = useState(null)
   
   const map = useMapEvents({
-    click() {
-      map.locate()
-    },
-    locationfound(e) {
-      setPosition(e.latlng)
-      map.flyTo(e.latlng, 18)
-    },
-  })
+      locationfound(e) {
+        map.flyTo(e.latlng, 18)
+      },
+    })
 
+  function getCurrentLocation () {
+    map.locate()
+  }
+  
   return ( <>
     <Control position='topleft'>
-      <button>hello</button>
+      <Button icon={<EnvironmentOutlined />} onClick={()=>getCurrentLocation()} title="Get Current Location" />
     </Control>
-    {position === null ? (null) : (
-    <Marker position={position}>
-      <Popup>You are here</Popup>
-    </Marker>
-  )}
   </>)
 }
 export default CurrentLocation

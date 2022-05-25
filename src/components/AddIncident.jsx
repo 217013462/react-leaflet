@@ -1,6 +1,6 @@
-import React, { useEffect, useState, Component } from 'react'
-import { MapContainer, TileLayer, useMap, useMapEvents, Marker } from 'react-leaflet'
-import L, { LeafletMouseEvent, Map } from "leaflet"
+import React, { useState } from 'react'
+import { useMapEvents, Marker } from 'react-leaflet'
+import L from "leaflet"
 import { Modal, Form, Input, Select, message, Button } from 'antd'
 import moment from 'moment'
 
@@ -38,13 +38,6 @@ const AddIncident = () => {
     const {confirm, ...data} = values
     const accessToken = auth.accessToken
       form.validateFields()
-      console.log(latitude)
-      console.log(longitude)
-      console.log(data.incident)
-      console.log(data.description)
-      console.log(auth.username)
-      console.log(auth.id)
-      console.log(moment().format())
     
     if (!data.incident) {
       
@@ -56,13 +49,21 @@ const AddIncident = () => {
         latitude: latitude,
         longitude: longitude,
         description: data.description,
-        dateReported: moment().format(),
-        userReported: auth.id
+        momentReported: moment().format(),
+        dateReported: moment().format("YYYY-MM-DD"),
+        timeReported: moment().format("HH:mm:ss"),
+        userReported: auth.id,
+        upvote: [],
+        downvote: []
       } , {
         headers: {
           'Authorization': `Basic ${accessToken}`
         }})
       .then((response)=>{
+        console.log(response.data)
+        //update the user detail for adding the incident (as array)
+        http.put(`/user/${auth.id}/${response.data.data.insertedId}`)
+        
         console.log(response.data)
         setIsModalLoading(false)
         message.success('Reported')
@@ -94,10 +95,10 @@ const AddIncident = () => {
           visible={isModalVisible}
           closable={false}
           footer={[
-          <Button key="back" onClick={handleCancel}>
+          <Button key="back" disabled={isModalLoading} onClick={handleCancel}>
             Cancel
           </Button>,
-          <Button key="reset" onClick={()=>{form.resetFields()}}>
+          <Button key="reset" disabled={isModalLoading} onClick={()=>{form.resetFields()}}>
             Reset
           </Button>,
           <Button key="submit" type="primary" loading={isModalLoading} onClick={form.submit}>
