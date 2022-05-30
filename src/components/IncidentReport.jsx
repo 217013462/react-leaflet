@@ -21,7 +21,7 @@ const IncidentReport = () => {
       } catch (err) {
         console.log(err)
       }
-    }, [])
+    },[incident])
 
 /*   const upvoteIcon = (id) => {
     http.get(`/incident/vote/${id}/${auth.id}`)
@@ -67,7 +67,7 @@ const IncidentReport = () => {
       .then((response)=>{
         console.log(response.data)
         if (response.data.length===0) {
-          http.put(`/incident/upvote/${id}/${auth.id}`)
+          http.put(`/incident/downvote/${id}/${auth.id}`)
             .then((response)=>{
               console.log(response.data)
               message.success('Downvoted')

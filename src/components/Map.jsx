@@ -10,6 +10,7 @@ import TrafficNews from './TrafficNews'
 import AddIncident from './AddIncident'
 import IncidentReport from './IncidentReport'
 import CurrentLocation from './CurrentLocation'
+import CLPEv from './CLPEv'
 
 const center = [22.2992961, 114.1894218]
 const zoom = 14
@@ -46,6 +47,11 @@ const Map = () => {
           <LayersControl.Overlay name="Traffic Camera">
             <LayerGroup>
               <TrafficCamera />
+            </LayerGroup>
+          </LayersControl.Overlay>
+          <LayersControl.Overlay name="Electric Vehicle Charging Staion">
+            <LayerGroup>
+              <CLPEv />
             </LayerGroup>
           </LayersControl.Overlay>
         </LayersControl>
