@@ -6,7 +6,7 @@ import '../css/Map.css'
 
 import Roadworks from './Roadworks'
 import TrafficCamera from './TrafficCamera'
-import TrafficNews from './TrafficNews'
+/* import TrafficNews from './TrafficNews' */
 import AddIncident from './AddIncident'
 import IncidentReport from './IncidentReport'
 import CurrentLocation from './CurrentLocation'
@@ -20,7 +20,7 @@ const Map = () => {
 
   return (
     <>
-      <TrafficNews />
+      {/* <TrafficNews /> */}
       <MapContainer center={center} zoom={zoom} scrollWheelZoom={true} minZoom={11}>
         <ResetViewControl
           title="Home Extend"
