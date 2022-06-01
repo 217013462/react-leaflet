@@ -1,7 +1,14 @@
 import React, { useEffect, useState } from 'react'
+import L from 'leaflet'
 import { Marker, Popup } from 'react-leaflet'
 
 import http from '../common/http-common'
+import iconSVG from '../icons/road-worker.svg'
+
+const getIcon = new L.Icon ({
+    iconUrl: iconSVG,
+    iconSize: [30,30]
+  })
 
 const Roadworks = () => {
 
@@ -21,6 +28,7 @@ const Roadworks = () => {
     <>
       {roadworks && roadworks.map(rw => (
         <Marker
+          icon={getIcon}
           key={rw.roadworks_id}
           position={[rw.latitude, rw.longitude]}>
           <Popup>

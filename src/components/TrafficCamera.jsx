@@ -2,6 +2,12 @@ import React, { useEffect, useState } from 'react'
 import { Marker, Popup } from 'react-leaflet'
 
 import http from '../common/http-common'
+import iconSVG from '../icons/camera.svg'
+
+const getIcon = new L.Icon ({
+    iconUrl: iconSVG,
+    iconSize: [30,30]
+  })
 
 const popupCamera = {
   width: "200px",
@@ -26,6 +32,7 @@ const TrafficCamera = () => {
     <>
       {trafficCamera && trafficCamera.map(camera => (
         <Marker
+          icon={getIcon}
           key={camera.key}
           position={[camera.latitude, camera.longitude]}>
           <Popup>

@@ -34,7 +34,7 @@ const Map = () => {
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
         <LayersControl position="topright">
-          <LayersControl.Overlay name="Incidents">
+          <LayersControl.Overlay checked name="Incidents">
             <LayerGroup>
               <IncidentReport />
             </LayerGroup>

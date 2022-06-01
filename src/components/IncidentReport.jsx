@@ -5,6 +5,12 @@ import { UpSquareOutlined, DownSquareOutlined, UpSquareFilled, DownSquareFilled 
 
 import http from '../common/http-common'
 import useAuth from '../hooks/useAuth'
+import iconSVG from '../icons/warning-small.svg'
+
+const getIcon = new L.Icon ({
+    iconUrl: iconSVG,
+    iconSize: [30,30]
+  })
 
 const IncidentReport = () => {
 
@@ -88,6 +94,7 @@ const IncidentReport = () => {
     <>
       {incident && incident.map(incident => (
         <Marker
+          icon={getIcon}
           key={incident._id}
           position={[incident.latitude, incident.longitude]}>
           <Popup>
