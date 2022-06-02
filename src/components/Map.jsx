@@ -5,6 +5,7 @@ import ResetViewControl from '@20tab/react-leaflet-resetview'
 import '../css/Map.css'
 
 import Roadworks from './Roadworks'
+import TrafficNews from './TrafficNews'
 import TrafficCamera from './TrafficCamera'
 import AddIncident from './AddIncident'
 import IncidentReport from './IncidentReport'
@@ -28,6 +29,7 @@ const Map = () => {
           icon={"🌎"}
           />
         <ScaleControl imperial={false} />
+        <TrafficNews />
         <CurrentLocation />
         <AddIncident />
         <TileLayer

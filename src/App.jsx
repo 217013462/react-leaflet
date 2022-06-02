@@ -1,27 +1,47 @@
-import React from 'react'
+import React, { useState } from 'react'
 import './css/App.css'
-//import { CSVLink } from 'react-csv'
-//https://www.npmjs.com/package/react-csv
 import moment from 'moment'
-
-import { Layout, Space } from 'antd'
+import { Layout, Space, Button, Modal, message } from 'antd'
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom'
+import { saveAs } from 'file-saver'
 
 import Home from './components/Map'
-import TrafficNews from './components/TrafficNews'
 import Register from './components/Register'
 import Login from './components/Login'
+
+import http from './common/http-common'
 import useAuth from './hooks/useAuth'
 
 function App() {
-  const a = moment().subtract(6, 'hours').format()
-  console.log(a)
+/*   const a = moment().subtract(6, 'hours').format()
+  console.log(a) */
 
   const { Header, Content } = Layout
   const { auth, setAuth } = useAuth()
+  const [isModalVisible, setIsModalVisible] = useState(false)
 
   const Logout = () => {
     setAuth({})
+  }
+
+  const handleCancel = () => {
+    setIsModalVisible(false)
+  }
+
+  const exportJSON = () => {
+    http.get('/incident', {
+      responseType: 'arraybuffer',
+      headers: {
+                  'Content-Type': 'application/json'
+      }
+    })
+      .then((response) => {
+        const blob = new Blob([response.data])
+        saveAs(blob, "incidents.json")
+      })
+    .catch((error) => console.log(error))
+    setIsModalVisible(false)
+    message.loading('Download in progress...')
   }
 
   return (
@@ -34,7 +54,9 @@ function App() {
             {auth.username ? (<></>) : (<><Link to="/login">Login</Link></>)}
             {auth.username ? (<><Link onClick={() => Logout()} to="/">Logout</Link></>) : (<></>)}
           </Space>
-          <div style={{float: 'right'}}><TrafficNews /></div>
+          <div style={{float: 'right'}}>
+            <Button type="link" onClick={()=>{setIsModalVisible(true)}}>Export</Button>
+          </div>
         </nav>
       </Header>
       <Content>
@@ -43,6 +65,9 @@ function App() {
           <Route path="/register" element={<Register />} />
           <Route path="/login" element={<Login />} />
         </Routes>
+    <Modal title="Export Incidents" visible={isModalVisible} onOk={exportJSON} onCancel={handleCancel}>
+      <p>Are you sure you want to download all the historical incidents?</p>
+    </Modal>
       </Content>
     </Router>
   )

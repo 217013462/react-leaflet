@@ -18,6 +18,7 @@ const TrafficNews = () => {
             description: `${trafficNews.LOCATION_EN} NEAR ${trafficNews.NEAR_LANDMARK_EN}`,
             duration: 10,
             placement: 'bottom',
+            maxCount: 1,
           })
         }
       } catch (err) {
