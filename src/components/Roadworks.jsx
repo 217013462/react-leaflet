@@ -7,7 +7,7 @@ import iconSVG from '../icons/road-worker.svg'
 
 const getIcon = new L.Icon ({
     iconUrl: iconSVG,
-    iconSize: [30,30]
+    iconSize: [25,25]
   })
 
 const Roadworks = () => {

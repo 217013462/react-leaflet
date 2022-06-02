@@ -2,11 +2,11 @@ import React, { useEffect, useState } from 'react'
 import { Marker, Popup } from 'react-leaflet'
 
 import http from '../common/http-common'
-import iconSVG from '../icons/ev-station.svg'
+import iconSVG from '../icons/ev-station-2.svg'
 
 const getIcon = new L.Icon ({
     iconUrl: iconSVG,
-    iconSize: [30,30]
+    iconSize: [30,30],
   })
 
 const CLPEv = () => {
