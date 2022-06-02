@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { Marker, Popup } from 'react-leaflet'
 
 import http from '../common/http-common'
-import iconSVG from '../icons/camera.svg'
+import iconSVG from '../icons/camera-cctv.svg'
 
 const getIcon = new L.Icon ({
     iconUrl: iconSVG,

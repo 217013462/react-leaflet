@@ -1,15 +1,15 @@
 import React, { useEffect, useState } from 'react'
 import { Marker, Popup } from 'react-leaflet'
 import { Button, message } from 'antd'
-import { UpSquareOutlined, DownSquareOutlined, UpSquareFilled, DownSquareFilled } from '@ant-design/icons'
+import { UpSquareOutlined, DownSquareOutlined } from '@ant-design/icons'
 
 import http from '../common/http-common'
 import useAuth from '../hooks/useAuth'
-import iconSVG from '../icons/warning-small.svg'
+import iconSVG from '../icons/warning.svg'
 
 const getIcon = new L.Icon ({
     iconUrl: iconSVG,
-    iconSize: [30,30]
+    iconSize: [35,35]
   })
 
 const IncidentReport = () => {
