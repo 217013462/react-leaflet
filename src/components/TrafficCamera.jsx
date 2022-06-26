@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { Marker, Popup } from 'react-leaflet'
+import MarkerClusterGroup from '@changey/react-leaflet-markercluster'
+//https://www.npmjs.com/package/@changey/react-leaflet-markercluster
 
 import http from '../common/http-common'
 import iconSVG from '../icons/camera-cctv.svg'
@@ -30,6 +32,7 @@ const TrafficCamera = () => {
 
   return (
     <>
+      <MarkerClusterGroup>
       {trafficCamera && trafficCamera.map(camera => (
         <Marker
           icon={getIcon}
@@ -43,6 +46,7 @@ const TrafficCamera = () => {
           </Popup>
         </Marker>
       ))}
+      </MarkerClusterGroup>
     </>
   )
 }

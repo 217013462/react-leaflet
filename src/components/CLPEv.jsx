@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { Marker, Popup } from 'react-leaflet'
+import MarkerClusterGroup from '@changey/react-leaflet-markercluster'
 
 import http from '../common/http-common'
 import iconSVG from '../icons/ev-station-2.svg'
@@ -25,6 +26,7 @@ const CLPEv = () => {
 
   return (
     <>
+      <MarkerClusterGroup>
       {CLPEv && CLPEv.map(ev => (
         <Marker
           icon={getIcon}
@@ -35,6 +37,7 @@ const CLPEv = () => {
           </Popup>
         </Marker>
       ))}
+      </MarkerClusterGroup>
     </>
   )
 }

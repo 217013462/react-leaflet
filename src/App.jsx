@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import './css/App.css'
-import moment from 'moment'
+//import moment from 'moment'
 import { Layout, Space, Button, Modal, message } from 'antd'
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom'
 import { saveAs } from 'file-saver'
@@ -14,7 +14,9 @@ import useAuth from './hooks/useAuth'
 
 function App() {
 /*   const a = moment().subtract(6, 'hours').format()
-  console.log(a) */
+  const b = moment().subtract(6, 'hours').toDate()
+  console.log(a)
+  console.log(b) */
 
   const { Header, Content } = Layout
   const { auth, setAuth } = useAuth()

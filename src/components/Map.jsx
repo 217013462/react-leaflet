@@ -1,7 +1,10 @@
-import React, { useEffect, useState } from 'react'
+import React, { useEffect, useState, useRef } from 'react'
 import { MapContainer, TileLayer, useMap, LayersControl, LayerGroup, ScaleControl } from 'react-leaflet'
+import { geosearch } from 'esri-leaflet-geocoder'
 import L from 'leaflet'
 import ResetViewControl from '@20tab/react-leaflet-resetview'
+//import EsriLeafletGeoSearch from "react-esri-leaflet/plugins/EsriLeafletGeoSearch"
+
 import '../css/Map.css'
 
 import Roadworks from './Roadworks'
@@ -14,16 +17,18 @@ import CLPEv from './CLPEv'
 
 const center = [22.2992961, 114.1894218]
 const zoom = 14
+const hkBounds = ([[22.1244,113.8094],[22.6089,114.4549]])
 
 const Map = () => {
-  
+
 // origin openstreetmap raster layer
 /*        attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"*/
   
   return (
     <>
-      <MapContainer center={center} zoom={zoom} scrollWheelZoom={true} minZoom={11}>
+      <MapContainer center={center} zoom={zoom} scrollWheelZoom={true} minZoom={11} maxBounds={hkBounds}>
+
         <ResetViewControl
           title="Home Extend"
           icon={"🌎"}
