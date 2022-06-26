@@ -22,7 +22,7 @@ const IncidentReport = () => {
   useEffect(
     async () => {
       try {
-        const res = await http.get('/incident')
+        const res = await http.get('/incident/filter/6hour')
         setIncident(res.data)
       } catch (err) {
         console.log(err)
