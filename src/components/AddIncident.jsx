@@ -49,7 +49,7 @@ const AddIncident = () => {
         latitude: latitude,
         longitude: longitude,
         description: data.description,
-        momentReported: Date(moment().format()),
+        momentReported: moment().format(),
         dateReported: moment().format("YYYY-MM-DD"),
         timeReported: moment().format("HH:mm:ss"),
         userReported: auth.id,
