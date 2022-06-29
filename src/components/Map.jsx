@@ -52,7 +52,7 @@ const Map = () => {
               <Roadworks />
             </LayerGroup>
           </LayersControl.Overlay>
-          <LayersControl.Overlay name="Traffic Camera">
+          <LayersControl.Overlay name="Traffic Snapshots">
             <LayerGroup>
               <TrafficCamera />
             </LayerGroup>
