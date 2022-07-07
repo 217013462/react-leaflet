@@ -13,13 +13,23 @@ const TrafficNews = () => {
         if (trafficNews.INCIDENT_STATUS_EN == 'CLOSED') {
           console.log('Latest traffic incidents was closed, no notification will be shown.')
         } else {
-        notification.open({
+          if (trafficNews.LOCATION_EN == '[object Object]' || trafficNews.NEAR_LANDMARK_EN == '[object Object]'){
+            notification.open({
+            message: `${trafficNews.INCIDENT_HEADING_EN} (${trafficNews.INCIDENT_DETAIL_EN})`,
+            description: `${trafficNews.CONTENT_EN}`,
+            duration: 10,
+            placement: 'bottom',
+            maxCount: 1,
+            })
+          } else {          
+            notification.open({
             message: `${trafficNews.INCIDENT_HEADING_EN} (${trafficNews.INCIDENT_DETAIL_EN})`,
             description: `${trafficNews.LOCATION_EN} NEAR ${trafficNews.NEAR_LANDMARK_EN}`,
             duration: 10,
             placement: 'bottom',
             maxCount: 1,
           })
+        }
         }
       } catch (err) {
         console.log(err)
