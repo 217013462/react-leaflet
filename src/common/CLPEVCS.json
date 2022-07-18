@@ -1,0 +1,5738 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 1,
+            "No": 1,
+            "Location": "Temple Mall North",
+            "Latitude": 22.34259033,
+            "Longitude": 114.1907196,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Wong Tai Sin",
+            "Address": "Temple Mall North Carpark, Level 3, 136 Lung Cheung Rd, Wong Tai Sin, Kln",
+            "Provider": "CLP",
+            "ParkingNo": "320-322",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_Lung%20Cheung.jpg "
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1907196,
+                22.34259033
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 2,
+            "No": 2,
+            "Location": "Fu Shing Building",
+            "Latitude": 22.44207191,
+            "Longitude": 114.0276718,
+            "Type": "SemiQuick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Yuen Long",
+            "Address": "Fu Shing Building Carpark, 1/F 9 Sai Ching Street, Yuen Long, NT",
+            "Provider": "CLP",
+            "ParkingNo": "33-35",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_Fu%20Shing%20Building.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.0276718,
+                22.44207191
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 3,
+            "No": 3,
+            "Location": "Lok Fu Plaza Carpark",
+            "Latitude": 22.33865738,
+            "Longitude": 114.1861038,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Wong Tai Sin",
+            "Address": "Lok Fu Plaza Carpark, G/F Wang Tau Hom, Wong Tai Sin, Kln",
+            "Provider": "CLP",
+            "ParkingNo": "67-69",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_Lo%20Fu_large.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1861038,
+                22.33865738
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 4,
+            "No": 4,
+            "Location": "MegaBox",
+            "Latitude": 22.32032776,
+            "Longitude": 114.2085266,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "MegaBox Carpark,  B/F 38 Wang Chiu Road, Kowloon Bay, Kln",
+            "Provider": "CLP",
+            "ParkingNo": "139-141",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Megabox.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2085266,
+                22.32032776
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 5,
+            "No": 5,
+            "Location": "LOHAS Park - the Capitol",
+            "Latitude": 22.29615402,
+            "Longitude": 114.2721481,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Sai Kung",
+            "Address": "Carpark, G/F, The Capitol, LOHAS Park, Tseung Kwan O, NT",
+            "Provider": "CLP",
+            "ParkingNo": "V14-V16",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_lohas_large.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2721481,
+                22.296154020000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 6,
+            "No": 6,
+            "Location": "Shek Lei Shopping Centre II",
+            "Latitude": 22.36586189,
+            "Longitude": 114.1401215,
+            "Type": "SemiQuick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Kwai Tsing",
+            "Address": "Shek Lei Shopping Centre Phase II Carpark,  4/F Shek Lei Estate, Kwai Chung, NT",
+            "Provider": "CLP",
+            "ParkingNo": "33-35",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_Shek%20lei%20shopping%20ctr.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1401215,
+                22.365861890000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 7,
+            "No": 7,
+            "Location": "Fu Tung Shopping Centre",
+            "Latitude": 22.2882328,
+            "Longitude": 113.9419098,
+            "Type": "SemiQuick",
+            "DistrictL": "Outlying Islands",
+            "DistrictS": "Outlying Islands",
+            "Address": "Fu Tung Shopping Centre Carpark,  G/F Fu Ting Estate, Tung Chung, Lantau, NT",
+            "Provider": "CLP",
+            "ParkingNo": "1001-1003",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_Fu%20Tung_large.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113.9419098,
+                22.288232800000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 8,
+            "No": 8,
+            "Location": "Landmark North",
+            "Latitude": 22.50291443,
+            "Longitude": 114.1275864,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "North",
+            "Address": "Landmark North Carpark, B3/F  39 Lung Sum Avenue, Sheung Shui, NT",
+            "Provider": "CLP",
+            "ParkingNo": "79-81",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_Landmark%20north_large.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1275864,
+                22.50291443
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 9,
+            "No": 9,
+            "Location": "Ocean Terminal",
+            "Latitude": 22.29561615,
+            "Longitude": 114.1693573,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "Ocean Terminal Carpark (Harbour City), 4/F 3-27 Canton Rd, Tsimshatsui, Kln",
+            "Provider": "CLP",
+            "ParkingNo": "1250-1251, 1305",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_Ocean%20Terminal_large.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1693573,
+                22.2956161500001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 10,
+            "No": 10,
+            "Location": "Tai Wo Shopping Centre",
+            "Latitude": 22.45048332,
+            "Longitude": 114.1608353,
+            "Type": "SemiQuick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Tai Po",
+            "Address": "Tai Wo Shopping Centre, 1/F Carpark Tai Wo Estate, Tai Po, NT",
+            "Provider": "CLP",
+            "ParkingNo": "B1-B3",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_tai%20wo_large.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1608353,
+                22.45048332
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 11,
+            "No": 11,
+            "Location": "Fanling Town Centre",
+            "Latitude": 22.49228477,
+            "Longitude": 114.1389008,
+            "Type": "SemiQuick",
+            "DistrictL": "New Territories",
+            "DistrictS": "North",
+            "Address": "Fanling Town Centre Carpark, B/F 18 Fanling Station Road, Fanling, NT",
+            "Provider": "CLP",
+            "ParkingNo": "22-24",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Fanling%20Town%20Centre.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1389008,
+                22.49228477
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 12,
+            "No": 12,
+            "Location": "Olympian City 2",
+            "Latitude": 22.3152523,
+            "Longitude": 114.1625061,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "Olympian City 2 Carpark, G/F 18 Hoi Ting Road, West Kowloon",
+            "Provider": "CLP",
+            "ParkingNo": "33,35",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_Olympian%20city%202.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1625061,
+                22.3152523000001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 13,
+            "No": 13,
+            "Location": "Festival Walk",
+            "Latitude": 22.33813477,
+            "Longitude": 114.1739121,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Sham Shui Po",
+            "Address": "Festival Walk Carpark, P1/F, 80 Tat Chee Avenue, Kowloon Tong, Kln",
+            "Provider": "CLP",
+            "ParkingNo": "P15-P16",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Festival%20Walk.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1739121,
+                22.338134770000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 14,
+            "No": 14,
+            "Location": "The Long Beach",
+            "Latitude": 22.31941986,
+            "Longitude": 114.1565704,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "The Long Beach Carpark, L1/F  8 Hoi Fai Road, West Kowloon",
+            "Provider": "CLP",
+            "ParkingNo": "107-108",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_long%20beach_large.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1565704,
+                22.31941986
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 15,
+            "No": 15,
+            "Location": "Kwun Tong Plaza",
+            "Latitude": 22.31088638,
+            "Longitude": 114.2258759,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "Kwun Tong Plaza Carpark, 6/F, 68 Hoi Yuen Road, Kwun Tong, Kln",
+            "Provider": "CLP",
+            "ParkingNo": "6P10",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_Kwun%20Tong%20Plaza_large.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2258759,
+                22.310886380000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 16,
+            "No": 16,
+            "Location": "Gold Coast Piazza",
+            "Latitude": 22.37187386,
+            "Longitude": 113.9930191,
+            "Type": "SemiQuick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Tuen Mun",
+            "Address": "Gold Coast Piazza Carpark, B/F,  1 Castle Peak Road, Castle Peak Bay, NT",
+            "Provider": "CLP",
+            "ParkingNo": "189-190",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_Gold%20Coast%20Piazza.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113.9930191,
+                22.3718738600001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 17,
+            "No": 17,
+            "Location": "China Hong Kong City",
+            "Latitude": 22.3010006,
+            "Longitude": 114.1679153,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "China Hong Kong City Carpark, B/F 33 Canton Road, Tsim Sha Tsui, Kln",
+            "Provider": "CLP",
+            "ParkingNo": "B111",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_China%20HK%20city_large.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1679153,
+                22.301000600000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 18,
+            "No": 18,
+            "Location": "Chinachem Tsuen Wan Plaza",
+            "Latitude": 22.37521172,
+            "Longitude": 114.1113281,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Tsuen Wan",
+            "Address": "Chinachem Tsuen Wan Plaza, 1/F 457 Castle Peak Road, Tsuen Wan, NT",
+            "Provider": "CLP",
+            "ParkingNo": "C2",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Chinachem%20Tsuen%20Wan%20Plaza.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1113281,
+                22.37521172
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 19,
+            "No": 19,
+            "Location": "Hong Kong Science Park",
+            "Latitude": 22.42625809,
+            "Longitude": 114.209877,
+            "Type": "SemiQuick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Shatin",
+            "Address": "Hong Kong Science Park Carpark P2, B/F, 8-10 Science Park West Avenue, Shatin, N.T.",
+            "Provider": "CLP",
+            "ParkingNo": "D042 - D052, D106 - D112",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_HK%20Science%20Park_large.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.209877,
+                22.42625809
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 20,
+            "No": 20,
+            "Location": "Tin Shing Court",
+            "Latitude": 22.44938469,
+            "Longitude": 114.0018539,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Yuen Long",
+            "Address": "Tin Shing Court Carpark, 3/F, 3 Tin Ching Street, Tin Shui Wai,Yuen Long, N.T.",
+            "Provider": "CLP",
+            "ParkingNo": "3177-3186, 3189-3206",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Tin%20Shing%20Court.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.0018539,
+                22.449384690000102
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 21,
+            "No": 21,
+            "Location": "Shatin Centre",
+            "Latitude": 22.38211632,
+            "Longitude": 114.1900787,
+            "Type": "SemiQuick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Shatin",
+            "Address": "Shatin Centre Carpark, 2/F,  2-16 Wang Pok Street, Shatin, N.T.",
+            "Provider": "CLP",
+            "ParkingNo": "73-75",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Shatin%20Centre.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1900787,
+                22.38211632
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 22,
+            "No": 22,
+            "Location": "Mira Mall",
+            "Latitude": 22.30062866,
+            "Longitude": 114.1728287,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "Mira Mall Carpark, B2/F 132 Nathan Road, Tsim Sha Tsui, Kln",
+            "Provider": "CLP",
+            "ParkingNo": "2116-2119",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Miramar%20Shopping%20Centre.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1728287,
+                22.30062866
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 23,
+            "No": 23,
+            "Location": "Langham Place",
+            "Latitude": 22.31742287,
+            "Longitude": 114.1687317,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "Langham Place Carpark, B4/F,  8 Argyle Street, Mongkok, Kln",
+            "Provider": "CLP",
+            "ParkingNo": "22, 41, 64",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_Langham%20Place.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1687317,
+                22.31742287
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 24,
+            "No": 24,
+            "Location": "Citygate",
+            "Latitude": 22.29111862,
+            "Longitude": 113.943573,
+            "Type": "SemiQuick",
+            "DistrictL": "Outlying Islands",
+            "DistrictS": "Outlying Islands",
+            "Address": "Citygate North Carpark, B1/F, 20 Tat Tung Road, Tung Chung, Lantau",
+            "Provider": "CLP",
+            "ParkingNo": "121, 122",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_Citygate.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113.943573,
+                22.291118620000098
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 25,
+            "No": 25,
+            "Location": "CLP Centenary Building",
+            "Latitude": 22.3077507,
+            "Longitude": 114.162056,
+            "Type": "Quick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "CLP Centenary Building, G/F, 1 To Wah Road, Jordan, Kowloon",
+            "Provider": "CLP",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_CLP%20Centenary%20Building_large.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.162056,
+                22.3077507
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 26,
+            "No": 26,
+            "Location": "Hong Kong Science Park",
+            "Latitude": 22.42636108,
+            "Longitude": 114.2099152,
+            "Type": "Quick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Shatin",
+            "Address": "Hong Kong Science Park Carpark P2, B/F, 8-10 Science Park West Avenue, Shatin, N.T.",
+            "Provider": "CLP",
+            "ParkingNo": "D104",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_HK%20Science%20Park_large.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2099152,
+                22.42636108
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 27,
+            "No": 27,
+            "Location": "Hong Kong International Airport",
+            "Latitude": 22.31819916,
+            "Longitude": 113.9337692,
+            "Type": "SemiQuick",
+            "DistrictL": "Outlying Islands",
+            "DistrictS": "Outlying Islands",
+            "Address": "HK International Airport Carpark 4, 1/F, 11 Cheong Tat Road, Hong Kong International Airport, Chek Lap Kok",
+            "Provider": "CLP",
+            "ParkingNo": "1004 -1005, 1085-1086",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_HK%20International%20Airport.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113.9337692,
+                22.318199160000098
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 28,
+            "No": 28,
+            "Location": "The Peak Galleria",
+            "Latitude": 22.27047157,
+            "Longitude": 114.1495438,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Central and Western",
+            "Address": "The Peak Galleria Carpark, B1/F  118 Peak Road, The Peak, Hong Kong",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/The%20Peak%20Galleria%20Carpark%2002.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1495438,
+                22.27047157
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 29,
+            "No": 29,
+            "Location": "Star Ferry",
+            "Latitude": 22.28308105,
+            "Longitude": 114.1602554,
+            "Type": "Standard;SemiQuick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Central and Western",
+            "Address": "Star Ferry Carpark 1/F,9 Edinburgh Place, Central, Hong Kong",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Star%20Ferry%20Carpark%2001.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1602554,
+                22.283081050000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 30,
+            "No": 30,
+            "Location": "Cityplaza",
+            "Latitude": 22.28658104,
+            "Longitude": 114.2180328,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Eastern",
+            "Address": "Cityplaza, Carpark B3  18 Taikoo Shing Road, Taikoo Shing, Hong Kong",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Cityplaza.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2180328,
+                22.28658104
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 31,
+            "No": 31,
+            "Location": "Oi Tung Estate",
+            "Latitude": 22.28037262,
+            "Longitude": 114.2268524,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Eastern",
+            "Address": "Oi Tung Estate Carpark, 2/F,  Oi Tung Estate, Shau Kei Wan, Hong Kong",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Oi%20Tung%20Estate.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2268524,
+                22.28037262
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 32,
+            "No": 32,
+            "Location": "Tin Hau Carpark",
+            "Latitude": 22.28302956,
+            "Longitude": 114.1916885,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Eastern",
+            "Address": "Tin Hau Carpark, 3/F,  Lau Sin Street &amp; Electric Road Junction, Tin Hau, Hong Kong",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Tin%20Hau%20Carpark.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1916885,
+                22.28302956
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 33,
+            "No": 33,
+            "Location": "Cyberport",
+            "Latitude": 22.26245117,
+            "Longitude": 114.1306,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Southern",
+            "Address": "Cyberport Car Park 1, 2/F Cyberport 2, 100 Cyberport Road, Hong Kong",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Cyberport%20car%20park%201_001.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1306,
+                22.262451170000102
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 34,
+            "No": 34,
+            "Location": "HEC ex-Operational Headquarters",
+            "Latitude": 22.24340439,
+            "Longitude": 114.1479874,
+            "Type": "Quick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Southern",
+            "Address": "HEC ex-Operational Headquarters, G/F 2 Yi Nga Drive, Ap Lei Chau, Hong Kong",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/HK%20Electric%20ex-Operational%20Headquarters.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1479874,
+                22.24340439
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 35,
+            "No": 35,
+            "Location": "The Centrium",
+            "Latitude": 22.28072548,
+            "Longitude": 114.1545868,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Central and Western",
+            "Address": "The Centrium Carpark 8/F  60 Wyndham Street , Central HK",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/The%20Centrium.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1545868,
+                22.2807254800001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 36,
+            "No": 36,
+            "Location": "Citibank Plaza",
+            "Latitude": 22.27882385,
+            "Longitude": 114.1609879,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Central and Western",
+            "Address": "Citibank Plaza Carpark B2 &amp; B3  Citibank Plaza Lcbc Tower , 3 Garden Road, Central, HK",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Citibank%20Plaza.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1609879,
+                22.27882385
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 37,
+            "No": 37,
+            "Location": "New World Tower",
+            "Latitude": 22.2803669,
+            "Longitude": 114.1568756,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Central and Western",
+            "Address": "New World Tower Carpark 6/F 16-18 Queen&#39;s Rd Central, HK",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/New%20World%20Tower.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1568756,
+                22.2803669
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 38,
+            "No": 38,
+            "Location": "148 Electric Road",
+            "Latitude": 22.28642273,
+            "Longitude": 114.1919022,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Eastern",
+            "Address": "148 Electric Road Carpark 2/F 148 Electric Road , North Point, HK",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/148%20Electric%20Road.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1919022,
+                22.28642273
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 39,
+            "No": 39,
+            "Location": "Cornell Centre",
+            "Latitude": 22.26771355,
+            "Longitude": 114.2430878,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Eastern",
+            "Address": "Cornell Centre Carpark 1/F 50 Wing Tai Road ,Chai Wan, HK",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Cornell%20Centre.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2430878,
+                22.26771355
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 40,
+            "No": 40,
+            "Location": "Island Resort",
+            "Latitude": 22.26545906,
+            "Longitude": 114.2511215,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Eastern",
+            "Address": "Island Resort Carpark 1/F ,  28 Siu Sai Wan Road, Chai Wan, HK",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Island%20Resort.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2511215,
+                22.265459060000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 41,
+            "No": 41,
+            "Location": "Great Eagle Centre",
+            "Latitude": 22.28084946,
+            "Longitude": 114.1752701,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Wan Chai",
+            "Address": "Great Eagle Centre Carpark 4/F,  23-25 Harbour Road, Wan Chai, HK",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Great%20Eagle%20Centre.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1752701,
+                22.280849460000098
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 42,
+            "No": 42,
+            "Location": "Hopewell Centr",
+            "Latitude": 22.27428055,
+            "Longitude": 114.171257,
+            "Type": "Standard;SemiQuick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Wan Chai",
+            "Address": "Hopewell Centre Carpark 11/F,  183 Queen&#39;s Rd E, Wan Chai, HK",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Hopewell%20Centre.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.171257,
+                22.2742805500001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 43,
+            "No": 43,
+            "Location": "Olympic House",
+            "Latitude": 22.27400208,
+            "Longitude": 114.1874161,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Wan Chai",
+            "Address": "Olympic House Carpark G/F 1 Stadium Path, Happy Valley, HK",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Olympic%20House.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1874161,
+                22.274002080000098
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 44,
+            "No": 44,
+            "Location": "Sino Plaza",
+            "Latitude": 22.2816143,
+            "Longitude": 114.1825943,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Wan Chai",
+            "Address": "Sino Plaza Carpark B2/F 255-257 Gloucester Road, Causerway Bay, HK",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Sino%20Plaza.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1825943,
+                22.281614300000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 45,
+            "No": 45,
+            "Location": "Times Square",
+            "Latitude": 22.27791214,
+            "Longitude": 114.1817627,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Wan Chai",
+            "Address": "Times Square Carpark B5 &amp;B6 1 Matheson St, Causeway Bay, HK",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Times%20Square.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1817627,
+                22.277912140000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 46,
+            "No": 46,
+            "Location": "Wu Chung House",
+            "Latitude": 22.27438927,
+            "Longitude": 114.1727371,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Wan Chai",
+            "Address": "Wu Chung House Carpark 5/F 213 Queen&#39;s Rd E, Wan Chai, HK",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Wu%20Chung%20House.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1727371,
+                22.27438927
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 47,
+            "No": 47,
+            "Location": "Sunshine Plaza",
+            "Latitude": 22.31168938,
+            "Longitude": 114.1893005,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kowloon City",
+            "Address": "Sunshine Plaza Carpark Level 2/F 17 Sung On Street , Hung Hom, Kln",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Sunshine%20Plaza.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1893005,
+                22.3116893800001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 48,
+            "No": 48,
+            "Location": "Exchange Tower",
+            "Latitude": 22.32082558,
+            "Longitude": 114.2097321,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "Exchange Tower Carpark Level B2 33 Wang Chiu Road , Kowloon Bay, Kln",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Exchange%20Tower.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2097321,
+                22.320825580000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 49,
+            "No": 49,
+            "Location": "Fullerton Centre",
+            "Latitude": 22.31341934,
+            "Longitude": 114.2193832,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "Fullerton Centre Carpark G/F, 19 Hung To Road, Kwun Tong, Kln",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Fullerton%20Centre.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2193832,
+                22.313419340000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 50,
+            "No": 50,
+            "Location": "Futura Plaza",
+            "Latitude": 22.31172943,
+            "Longitude": 114.2243118,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "Futura Plaza Carpark Level 1, 111-113 How Ming Street, Kwun Tong, Kln",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Futura%20Plaza.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2243118,
+                22.311729430000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 51,
+            "No": 51,
+            "Location": "Kowloon Bay International Trade &amp; Exhibition Centre",
+            "Latitude": 22.32304955,
+            "Longitude": 114.2045212,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "Kowloon Bay International Trade &amp; Exhibition Centre,  Carpark Level B2, 1 Trademart Drive, Kowloon Bay, Kln",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Hong%20Kong%20International%20Trade%20and%20Exhibition%20Centre.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2045212,
+                22.3230495500001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 52,
+            "No": 52,
+            "Location": "Kwun Tong Harbour Plaza",
+            "Latitude": 22.30915833,
+            "Longitude": 114.2212448,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "Kwun Tong Harbour Plaza Carpark Level 6, 182 Wai Yip Street, Kwun Tong, Kln",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Kwun%20Tong%20Harbour%20Plaza.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2212448,
+                22.30915833
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 53,
+            "No": 53,
+            "Location": "Metro Centre",
+            "Latitude": 22.32448387,
+            "Longitude": 114.2102356,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "Metro Centre Carpark G/F,  32 Lam Hing Street, Kowloon Bay Kln",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Metro%20Centre.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2102356,
+                22.32448387
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 54,
+            "No": 54,
+            "Location": "Metro Centre II",
+            "Latitude": 22.32467461,
+            "Longitude": 114.2109528,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "Metro Centre II Carpark G/F,  21 Lam Hing Street, Kowloon Bay, Kln",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Metro%20Centre%20II.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2109528,
+                22.32467461
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 55,
+            "No": 55,
+            "Location": "Remington Centre",
+            "Latitude": 22.31304932,
+            "Longitude": 114.2198029,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "Remington Centre G/F Carpark,  23 Hung To Road, Kwun Tong, Kln",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Regentville%20Shopping%20Mall.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2198029,
+                22.313049320000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 56,
+            "No": 56,
+            "Location": "Skyline Tower",
+            "Latitude": 22.32602501,
+            "Longitude": 114.2053604,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "Skyline Tower Carpark Level 2,  39 Wang Kwong Road, Kowloon Bay, Kln",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Skyline%20Tower.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2053604,
+                22.32602501
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 57,
+            "No": 57,
+            "Location": "Westin Centre",
+            "Latitude": 22.31308937,
+            "Longitude": 114.2195206,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "Westin Centre Carpark 1/F,  26 Hung To Road, Kwun Tong, Kln",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Westin%20Centre.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2195206,
+                22.3130893700001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 58,
+            "No": 58,
+            "Location": "Hollywood Plaza",
+            "Latitude": 22.34069443,
+            "Longitude": 114.2031021,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Wong Tai Sin",
+            "Address": "Hollywood Plaza Carpark B1,  3 Lung Poon Street, Diamond Hill, Kln",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Hollywood%20Plaza.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2031021,
+                22.34069443
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 59,
+            "No": 59,
+            "Location": "Empire Centre",
+            "Latitude": 22.29863167,
+            "Longitude": 114.1784287,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "Empire Centre Carpark B/F,  68 Mody Road, Tsim Sha Tsui, Kln",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Empire%20Centre.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1784287,
+                22.298631670000098
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 60,
+            "No": 60,
+            "Location": "K11 Art Mall",
+            "Latitude": 22.29715347,
+            "Longitude": 114.173317,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "K11 Art Mall Carpark B4,  18 Hanoi Road, Tsim Sha Tsui, Kln",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/K11%20Art%20Mall.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.173317,
+                22.297153470000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 61,
+            "No": 61,
+            "Location": "Olympian City I",
+            "Latitude": 22.32005882,
+            "Longitude": 114.157608,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "Olympian City I Carpark UG,  11 Hoi Fai Road, West Kowloon, Kln",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Olympian%20City%20I.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.157608,
+                22.32005882
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 62,
+            "No": 62,
+            "Location": "Avon Park",
+            "Latitude": 22.48747826,
+            "Longitude": 114.1424484,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "North",
+            "Address": "Avon Park, Carpark B1/F,  15 Yat Ming Road, Fanling, N.T.",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Avon%20Park.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1424484,
+                22.48747826
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 63,
+            "No": 63,
+            "Location": "Cambridge Plaza",
+            "Latitude": 22.50649261,
+            "Longitude": 114.1223602,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "North",
+            "Address": "Cambridge Plaza Carpark G/F,  188 San Wan Road, Sheung Shui, NT",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Cambridge%20Plaza.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1223602,
+                22.506492610000102
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 64,
+            "No": 64,
+            "Location": "Grand Regentville",
+            "Latitude": 22.50033379,
+            "Longitude": 114.1446533,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "North",
+            "Address": "Grand Regentville Carpark B2,  9 Wo Mun Street, Fanling, N.T.",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Grand%20Regentville.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1446533,
+                22.500333790000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 65,
+            "No": 65,
+            "Location": "Regentville Shopping Mall",
+            "Latitude": 22.50122833,
+            "Longitude": 114.1438599,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "North",
+            "Address": "Regentville Shopping Mall Carpark B1/F,   8 Wo Mun Street, Fanling, NT",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Regentville%20Shopping%20Mall.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1438599,
+                22.501228330000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 66,
+            "No": 66,
+            "Location": "Corporation Park",
+            "Latitude": 22.38933563,
+            "Longitude": 114.2075043,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Shatin",
+            "Address": "Corporation Park Carpark G/F,  11 On Lai Street, Shatin, NT",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Corporation%20Park.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2075043,
+                22.389335630000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 67,
+            "No": 67,
+            "Location": "Shatin Galleria",
+            "Latitude": 22.39728355,
+            "Longitude": 114.1930924,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Shatin",
+            "Address": "Shatin Galleria Carpark 4/F,  18-24 Shan Mei Street, Fo Tan, NT",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Shatin%20Galleria.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1930924,
+                22.3972835500001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 68,
+            "No": 68,
+            "Location": "Discovery Park Shopping Mall",
+            "Latitude": 22.37609482,
+            "Longitude": 114.1129684,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Tsuen Wan",
+            "Address": "Discovery Park Shopping Mall Carpark Level 4,  398 Castle Park Road, Tsuen Wan, NT",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Discovery%20Park%20Shopping%20Mall.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1129684,
+                22.37609482
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 69,
+            "No": 69,
+            "Location": "Panda Place",
+            "Latitude": 22.36911392,
+            "Longitude": 114.1208954,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Tsuen Wan",
+            "Address": "Panda Place Carpark 4/F,  3 Tuen Wah Street, Tsuen Wan, NT",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Panda%20Place.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1208954,
+                22.3691139200001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 70,
+            "No": 70,
+            "Location": "Riviera Plaza",
+            "Latitude": 22.36296082,
+            "Longitude": 114.1144028,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Tsuen Wan",
+            "Address": "Riviera Plaza Carpark B1,  28 Wing Shun Street,Tsuen Wan, NT",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Riviera%20Plaza.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1144028,
+                22.362960820000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 71,
+            "No": 71,
+            "Location": "Waterside Plaza",
+            "Latitude": 22.36330414,
+            "Longitude": 114.1145706,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Tsuen Wan",
+            "Address": "Waterside Plaza Carpark 1/F,  38 Wing Shun Street,Tsuen Wan, NT",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Waterside%20Plaza.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1145706,
+                22.36330414
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 72,
+            "No": 72,
+            "Location": "Oceania Heights",
+            "Latitude": 22.38393974,
+            "Longitude": 113.9716187,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Tuen Mun",
+            "Address": "Oceania Heights Carpark Level 1,  2 Hoi Chu Rd. ,Tuen Mun, NT",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Oceania%20Heights.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113.9716187,
+                22.383939740000098
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 73,
+            "No": 73,
+            "Location": "Parklane Centre",
+            "Latitude": 22.39612961,
+            "Longitude": 113.9694443,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Tuen Mun",
+            "Address": "Parklane Centre Carpark G/F,  25 Kin Wing St., Tuen Mun, NT",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Parklane%20Centre.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113.9694443,
+                22.39612961
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 74,
+            "No": 74,
+            "Location": "Tuen Mun Town Plaza II",
+            "Latitude": 22.39382172,
+            "Longitude": 113.9764328,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Tuen Mun",
+            "Address": "Tuen Mun Town Plaza II Carpark G/F,  3 Tuen Lung St., Tuen Mun, NT",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Tuen%20Mun%20Town%20Plaza%20II.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113.9764328,
+                22.393821720000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 75,
+            "No": 75,
+            "Location": "Tuen Mun Town Plaza III",
+            "Latitude": 22.39432526,
+            "Longitude": 113.9774857,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Tuen Mun",
+            "Address": "Tuen Mun Town Plaza III Carpark B2/F,  2 Tuen Yan St., Tuen Mun, NT",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Tuen%20Mun%20Town%20Plaza%20III.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113.9774857,
+                22.394325260000102
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 76,
+            "No": 76,
+            "Location": "Golden Plaza",
+            "Latitude": 22.44520378,
+            "Longitude": 114.0312271,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Yuen Long",
+            "Address": "Golden Plaza Carpark 3/F,  28 Shui Che Kwun St., Yuen Long, NT",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Golden%20Plaza.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.0312271,
+                22.44520378
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 77,
+            "No": 77,
+            "Location": "Ping Wui Centre",
+            "Latitude": 22.44681168,
+            "Longitude": 114.0220261,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Yuen Long",
+            "Address": "Ping Wui Centre Carpark 1/F,  13 Ping Wui St., Yuen Long, NT",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Ping%20Wui%20Centre.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.0220261,
+                22.44681168
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 78,
+            "No": 78,
+            "Location": "Springdale Villas",
+            "Latitude": 22.44046211,
+            "Longitude": 114.0214539,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Yuen Long",
+            "Address": "Springdale Villas Carpark 2/F,  80 Ma Tin Road, Yuen Long, NT",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Springdale%20Villas.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.0214539,
+                22.440462110000102
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 79,
+            "No": 79,
+            "Location": "Choi Yuen Plaza",
+            "Latitude": 22.50141144,
+            "Longitude": 114.127182,
+            "Type": "Quick",
+            "DistrictL": "New Territories",
+            "DistrictS": "North",
+            "Address": "Choi Yuen Plaza Carpark 3, G/F,  Choi Yuen Estate,Sheung Shui ,N.T.",
+            "Provider": "CLP",
+            "ParkingNo": "6",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_Choi%20Yuen%20Plaza.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.127182,
+                22.50141144
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 80,
+            "No": 80,
+            "Location": "Trend Centre",
+            "Latitude": 22.26592445,
+            "Longitude": 114.2353668,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Eastern",
+            "Address": "Trend Centre Carpark 1/F, 29-31 Cheung Lee St, Chai Wan, Hong Kong",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/Trend%20Centre.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2353668,
+                22.265924450000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 81,
+            "No": 81,
+            "Location": "Amoy Plaza",
+            "Latitude": 22.32510757,
+            "Longitude": 114.2163086,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "Amoy Plaza Carpark 1/F, 77 Ngau Tau Kok Road, Kowloon Bay, Kowloon",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/Amoy%20Plaza.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2163086,
+                22.3251075700001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 82,
+            "No": 82,
+            "Location": "Excel Centre",
+            "Latitude": 22.33894157,
+            "Longitude": 114.1501923,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Sham Shui Po",
+            "Address": "Excel Centre Carpark G/F, 483A Castle Peak Road, Cheung Sha Wan, Kowloon",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/Excel%20Centre.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1501923,
+                22.33894157
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 83,
+            "No": 83,
+            "Location": "Choi Yuen Plaza",
+            "Latitude": 22.50029182,
+            "Longitude": 114.126442,
+            "Type": "SemiQuick",
+            "DistrictL": "New Territories",
+            "DistrictS": "North",
+            "Address": "Choi Yuen Plaza Carpark 3, G/F,  Choi Yuen Estate, Sheung Shui ,N.T.",
+            "Provider": "CLP",
+            "ParkingNo": "7-Oct",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_Choi%20Yuen%20Plaza.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.126442,
+                22.50029182
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 84,
+            "No": 84,
+            "Location": "Cheung Fat Plaza",
+            "Latitude": 22.36264801,
+            "Longitude": 114.1026306,
+            "Type": "SemiQuick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Kwai Tsing",
+            "Address": "Cheung Fat Plaza Carpark 2/F, Cheung Fat Estate, Tsing Yi, N.T.",
+            "Provider": "CLP",
+            "ParkingNo": "2094 - 2096",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_Cheung%20Fat%20Plaza.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1026306,
+                22.36264801
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 85,
+            "No": 85,
+            "Location": "Yau Lai Shopping Centre",
+            "Latitude": 22.29850769,
+            "Longitude": 114.2374649,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "Yau Lai Shopping Centre Carpark LG1/F, 9 Yau Tong Road, Yau Tong, Kowloon",
+            "Provider": "CLP",
+            "ParkingNo": "27-30, 34-35",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_Yau%20Lai%20Shopping%20Centre.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2374649,
+                22.2985076900001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 86,
+            "No": 86,
+            "Location": "Yau Lai Shopping Centre",
+            "Latitude": 22.29850769,
+            "Longitude": 114.2374649,
+            "Type": "Quick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "Yau Lai Shopping Centre Carpark LG1/F, 9 Yau Tong Road, Yau Tong, Kowloon",
+            "Provider": "CLP",
+            "ParkingNo": "31, 33",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_Yau%20Lai%20Shopping%20Centre.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2374649,
+                22.2985076900001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 87,
+            "No": 87,
+            "Location": "Choi Tak Shopping Centre",
+            "Latitude": 22.3314209,
+            "Longitude": 114.213768,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "Choi Tak Shopping Centre Carpark 2/F,  Ngau Tau Kok, Kowloon",
+            "Provider": "CLP",
+            "ParkingNo": "258-262",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_Choi%20Tak%20Shopping%20Centre.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.213768,
+                22.331420900000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 88,
+            "No": 88,
+            "Location": "Shui Pin Wai Estate",
+            "Latitude": 22.44680977,
+            "Longitude": 114.0220795,
+            "Type": "Quick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Yuen Long",
+            "Address": "Shui Pin Wai Estate Carpark G/F,  Yuen Long, N.T.",
+            "Provider": "CLP",
+            "ParkingNo": "7",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_Shui%20Pin%20Wai%20Estate.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.0220795,
+                22.446809770000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 89,
+            "No": 89,
+            "Location": "Stanley Plaza",
+            "Latitude": 22.22004509,
+            "Longitude": 114.2103195,
+            "Type": "Quick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Southern",
+            "Address": "Stanley Plaza Carpark 4/F, 23 Carmel Road, Stanley, Hong Kong",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_dummy_gov.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2103195,
+                22.22004509
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 90,
+            "No": 90,
+            "Location": "Star Ferry",
+            "Latitude": 22.28227425,
+            "Longitude": 114.1604309,
+            "Type": "Quick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Central and Western",
+            "Address": "Star Ferry Carpark 4/F, 9 Edinburgh Place, Central, Hong Kong",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Star%20Ferry%20Carpark%2001.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1604309,
+                22.2822742500001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 91,
+            "No": 91,
+            "Location": "Hong Kong International Airport",
+            "Latitude": 22.31824684,
+            "Longitude": 113.933815,
+            "Type": "Quick",
+            "DistrictL": "Outlying Islands",
+            "DistrictS": "Outlying Islands",
+            "Address": "HK International Airport Carpark 4, 1/F, 11 Cheong Tat Road, Hong Kong International Airport-station, Chek Lap Kok",
+            "Provider": "CLP",
+            "ParkingNo": "1002, 1087-1089",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_HK%20International%20Airport.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113.933815,
+                22.31824684
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 92,
+            "No": 92,
+            "Location": "Kwai Chung Shopping Centre",
+            "Latitude": 22.36743164,
+            "Longitude": 114.1277084,
+            "Type": "SemiQuick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Kwai Tsing",
+            "Address": "Kwai Chung Shopping Centre Carpark L2, Kwai Chung Estate, Kwai Chung, NT",
+            "Provider": "CLP",
+            "ParkingNo": "P115-P120, P168",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_Kwai%20Chung%20Estate.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1277084,
+                22.367431640000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 93,
+            "No": 93,
+            "Location": "Tsuen Wan Multi-storey Car Park",
+            "Latitude": 22.37301064,
+            "Longitude": 114.118721,
+            "Type": "Standard;SemiQuick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Tsuen Wan",
+            "Address": "Tsuen Wan Multi-storey Car Park,  174-208 Castle Peak Road, Tsuen Wan",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.118721,
+                22.3730106400001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 94,
+            "No": 94,
+            "Location": "Lions Rise Mall",
+            "Latitude": 22.33988571,
+            "Longitude": 114.1969681,
+            "Type": "Standard;SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Wong Tai Sin",
+            "Address": "8 Muk Lun Street, Wong Tai Sin",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1969681,
+                22.33988571
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 95,
+            "No": 95,
+            "Location": "Sheung Fung Street Market",
+            "Latitude": 22.3441124,
+            "Longitude": 114.1969376,
+            "Type": "Standard;SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Wong Tai Sin",
+            "Address": "Sheung Fung Street Market, Sheung Fung Street, Wong Tai Sin",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1969376,
+                22.3441124
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 96,
+            "No": 96,
+            "Location": "AIA Financial Centre",
+            "Latitude": 22.33503342,
+            "Longitude": 114.1993256,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Wong Tai Sin",
+            "Address": "712 Prince Edward Road East, Sun Po Kong",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1993256,
+                22.33503342
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 97,
+            "No": 97,
+            "Location": "Queensway Government Offices",
+            "Latitude": 22.27729607,
+            "Longitude": 114.1638336,
+            "Type": "Standard;SemiQuick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Central and Western",
+            "Address": "Queensway Government Offices, 66 Queensway, Hong Kong",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1638336,
+                22.27729607
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 98,
+            "No": 98,
+            "Location": "Murray Road Multi-storey Car Park",
+            "Latitude": 22.28033257,
+            "Longitude": 114.1627274,
+            "Type": "Standard;SemiQuick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Central and Western",
+            "Address": "Murray Road Multi-storey Car Park, 2 Murray Road, Central",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1627274,
+                22.28033257
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 99,
+            "No": 99,
+            "Location": "Two International Finance Centre",
+            "Latitude": 22.286026,
+            "Longitude": 114.1585693,
+            "Type": "SemiQuick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Central and Western",
+            "Address": "Car Park B5, Two International Finance Centre, 8 Finance Street, Central",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1585693,
+                22.286026
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 100,
+            "No": 100,
+            "Location": "Rumsey Street Multi-storey Car Park",
+            "Latitude": 22.2875309,
+            "Longitude": 114.1521378,
+            "Type": "Standard;SemiQuick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Central and Western",
+            "Address": "Rumsey Street Multi-storey Car Park, 2 Rumsey Street, Sheung Wan",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1521378,
+                22.2875309
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 101,
+            "No": 101,
+            "Location": "City Hall Multi-storey Car Park",
+            "Latitude": 22.28177834,
+            "Longitude": 114.1615982,
+            "Type": "Standard;SemiQuick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Central and Western",
+            "Address": "City Hall Multi-storey Car Park, 1 Edinburgh Place, Central",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1615982,
+                22.281778340000098
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 102,
+            "No": 102,
+            "Location": "Tin Hau Carpark",
+            "Latitude": 22.28302956,
+            "Longitude": 114.1916885,
+            "Type": "SemiQuick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Eastern",
+            "Address": "Tin Hau Carpark, 3/F, Lau Sin Street &amp; Electric Road Junction, Tin Hau, Hong Kong",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1916885,
+                22.28302956
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 103,
+            "No": 103,
+            "Location": "North District Government Offices",
+            "Latitude": 22.49533081,
+            "Longitude": 114.1382828,
+            "Type": "Standard;SemiQuick",
+            "DistrictL": "New Territories",
+            "DistrictS": "North",
+            "Address": "North District Government Offices, 3 Pik Fung Road, Fanling, N.T.",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1382828,
+                22.49533081
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 104,
+            "No": 104,
+            "Location": "Sai Kung Government Offices",
+            "Latitude": 22.38173676,
+            "Longitude": 114.2717896,
+            "Type": "Standard;SemiQuick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Sai Kung",
+            "Address": "Sai Kung Government Offices, 34 Chan Man Street, Sai Kung, New Territories",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2717896,
+                22.38173676
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 105,
+            "No": 105,
+            "Location": "Maritime Square",
+            "Latitude": 22.35848045,
+            "Longitude": 114.105545,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Kwai Tsing",
+            "Address": "Maritime Square, 33 Tsing King Road, Tsing Yi",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.105545,
+                22.358480450000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 106,
+            "No": 106,
+            "Location": "East Point City",
+            "Latitude": 22.31563759,
+            "Longitude": 114.2659607,
+            "Type": "SemiQuick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Sai Kung",
+            "Address": "East Point City, 8 Chung Wa Road, Tseung Kwan O",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2659607,
+                22.315637590000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 107,
+            "No": 107,
+            "Location": "Wan Chai Tower and Immigration Tower",
+            "Latitude": 22.28049278,
+            "Longitude": 114.1727676,
+            "Type": "Standard;SemiQuick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Wan Chai",
+            "Address": "12 Harbour Road, Wan Chai",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1727676,
+                22.28049278
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 108,
+            "No": 108,
+            "Location": "Laws Commercial Plaza",
+            "Latitude": 22.33809471,
+            "Longitude": 114.149971,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Sham Shui Po",
+            "Address": "788 Cheung Sha Wan Road, Cheung Sha Wan",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.149971,
+                22.338094710000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 109,
+            "No": 109,
+            "Location": "Mikiki",
+            "Latitude": 22.33410835,
+            "Longitude": 114.1970291,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Wong Tai Sin",
+            "Address": "638 Prince Edward Road Esat, San Po Kong",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1970291,
+                22.334108350000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 110,
+            "No": 110,
+            "Location": "Telford Plaza Phase 1D, 33 Wai Yip Street, Kowloon Bay",
+            "Latitude": 22.32219124,
+            "Longitude": 114.2132034,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "Telford Plaza Phase 1D, 33 Wai Yip Street, Kowloon Bay",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2132034,
+                22.32219124
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 111,
+            "No": 111,
+            "Location": "Yue Wan Estate Carpark, Eastern District, Hong Kong",
+            "Latitude": 22.26483345,
+            "Longitude": 114.2402496,
+            "Type": "Quick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Eastern",
+            "Address": "1/F, Yue Wan Estate Carpark, Yee Fung Street, Chai Wan, Hong Kong",
+            "Provider": "Others",
+            "ParkingNo": "84",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2402496,
+                22.26483345
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 112,
+            "No": 112,
+            "Location": "Tak Long Estate",
+            "Latitude": 22.32872391,
+            "Longitude": 114.2046204,
+            "Type": "Quick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kowloon City",
+            "Address": "Tak Long Estate Carpark 1/F, Kai Tak Development Area",
+            "Provider": "CLP",
+            "ParkingNo": "40, 41",
+            "img": "/EV/PublishingImages/tak%20long.JPG"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2046204,
+                22.3287239100001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 113,
+            "No": 113,
+            "Location": "Kerry Centre",
+            "Latitude": 22.29046822,
+            "Longitude": 114.2101822,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Eastern",
+            "Address": "28 Hoi Chak Street, Quarry Bay",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2101822,
+                22.29046822
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 114,
+            "No": 114,
+            "Location": "Oxford House",
+            "Latitude": 22.28731155,
+            "Longitude": 114.2130203,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Eastern",
+            "Address": "22 Westlands Road, Quarry Bay",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2130203,
+                22.28731155
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 115,
+            "No": 115,
+            "Location": "Dorset House",
+            "Latitude": 22.28741074,
+            "Longitude": 114.2122498,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Eastern",
+            "Address": "41 Tong Chong Street, Quarry Bay",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2122498,
+                22.28741074
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 116,
+            "No": 116,
+            "Location": "One Island East",
+            "Latitude": 22.28627014,
+            "Longitude": 114.2130585,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Eastern",
+            "Address": "18 Westlands Road, Quarry Bay",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2130585,
+                22.28627014
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 117,
+            "No": 117,
+            "Location": "Kai Tak Cruise Terminal",
+            "Latitude": 22.30749702,
+            "Longitude": 114.2119598,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kowloon City",
+            "Address": "33 Shing Fung Road, Kai Tak",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2119598,
+                22.30749702
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 118,
+            "No": 118,
+            "Location": "Hung Hom Station Car Park",
+            "Latitude": 22.30253792,
+            "Longitude": 114.1810989,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kowloon City",
+            "Address": "On Wan Road, Hung Hom",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1810989,
+                22.302537920000098
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 119,
+            "No": 119,
+            "Location": "Kai Ching Estate",
+            "Latitude": 22.33215141,
+            "Longitude": 114.203804,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kowloon City",
+            "Address": "Muk Hung Street, Kowloon City",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.203804,
+                22.332151410000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 120,
+            "No": 120,
+            "Location": "One International Finance Centre",
+            "Latitude": 22.28457451,
+            "Longitude": 114.157753,
+            "Type": "SemiQuick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Central and Western",
+            "Address": "1 Harbour View Street",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.157753,
+                22.28457451
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 121,
+            "No": 121,
+            "Location": "Hanford Plaza",
+            "Latitude": 22.38173676,
+            "Longitude": 113.9769211,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Tuen Mun",
+            "Address": "6 Sam Shing Street, Tuen Mum",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113.9769211,
+                22.38173676
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 122,
+            "No": 122,
+            "Location": "Sun Tuen Mun Shopping Centre",
+            "Latitude": 22.38086319,
+            "Longitude": 113.9643631,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Tuen Mun",
+            "Address": "Tuen Tsing Lane, Lung Mun Road, Tuen Mun",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113.9643631,
+                22.380863190000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 123,
+            "No": 123,
+            "Location": "Kornhill Plaza (south)",
+            "Latitude": 22.28412819,
+            "Longitude": 114.2170029,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Eastern",
+            "Address": "18 Hong On Street, Quarry Bay",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2170029,
+                22.28412819
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 124,
+            "No": 124,
+            "Location": "North Point Government Offices",
+            "Latitude": 22.29198837,
+            "Longitude": 114.2080994,
+            "Type": "Standard;SemiQuick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Eastern",
+            "Address": "333 Java Road, North Point",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2080994,
+                22.291988370000102
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 125,
+            "No": 125,
+            "Location": "Shau Kei Wan Multi-storey Car Park",
+            "Latitude": 22.27890587,
+            "Longitude": 114.2294998,
+            "Type": "Standard;SemiQuick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Eastern",
+            "Address": "16 Mong Lung Street, Shau Kei Wan",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2294998,
+                22.278905870000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 126,
+            "No": 126,
+            "Location": "Cheung Sha Wan Government Offices",
+            "Latitude": 22.3320446,
+            "Longitude": 114.1604919,
+            "Type": "Standard;SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Sham Shui Po",
+            "Address": "303 Cheung Sha Wan Road",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1604919,
+                22.332044600000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 127,
+            "No": 127,
+            "Location": "Yau Ma Tei Car Park",
+            "Latitude": 22.30928421,
+            "Longitude": 114.1707001,
+            "Type": "Standard;SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "58 Temple Street, Yau Ma Tei",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1707001,
+                22.30928421
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 128,
+            "No": 128,
+            "Location": "Sha Tin Government Offices",
+            "Latitude": 22.38591957,
+            "Longitude": 114.1872482,
+            "Type": "Standard;SemiQuick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Shatin",
+            "Address": "1 Sheung Wo Che Road, Shatin",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1872482,
+                22.38591957
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 129,
+            "No": 129,
+            "Location": "Whampoa Plaza",
+            "Latitude": 22.30451393,
+            "Longitude": 114.1903534,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kowloon City",
+            "Address": "7 Tak On Street, Hung Hom",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1903534,
+                22.30451393
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 130,
+            "No": 130,
+            "Location": "Ka Wai Chuen",
+            "Latitude": 22.30759239,
+            "Longitude": 114.1863098,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kowloon City",
+            "Address": "10 Station Lane, Ma Tau Wai Road, Hung Hom",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1863098,
+                22.30759239
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 131,
+            "No": 131,
+            "Location": "Remington Centre",
+            "Latitude": 22.31311226,
+            "Longitude": 114.219635,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "23 Hung To Road, Kwun Tong",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.219635,
+                22.31311226
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 132,
+            "No": 132,
+            "Location": "Shui On Centre",
+            "Latitude": 22.28045654,
+            "Longitude": 114.1713257,
+            "Type": "SemiQuick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Wan Chai",
+            "Address": "8 Harbour Road, Wan Chai",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1713257,
+                22.28045654
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 133,
+            "No": 133,
+            "Location": "AIA Tower",
+            "Latitude": 22.28814888,
+            "Longitude": 114.1922302,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Eastern",
+            "Address": "28 Wang On Road, Causeway Bay",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1922302,
+                22.28814888
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 134,
+            "No": 134,
+            "Location": "Paradise Mall (West)",
+            "Latitude": 22.27808952,
+            "Longitude": 114.2391129,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Eastern",
+            "Address": "100 Sing Tai Road, Chai Wan",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2391129,
+                22.27808952
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 135,
+            "No": 135,
+            "Location": "Lai Tak Tsuen",
+            "Latitude": 22.27835846,
+            "Longitude": 114.194046,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Eastern",
+            "Address": "16 Lai Tak Tsuen Road, Tai Hang",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.194046,
+                22.27835846
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 136,
+            "No": 136,
+            "Location": "Mei Tin Estate",
+            "Latitude": 22.37626076,
+            "Longitude": 114.1711044,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Shatin",
+            "Address": "Heung Fan Liu Street, Tai Wai",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1711044,
+                22.37626076
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 137,
+            "No": 137,
+            "Location": "Ma On Shan Centre",
+            "Latitude": 22.42637825,
+            "Longitude": 114.2331162,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Shatin",
+            "Address": "1 On Chun Street, Ma On Shan",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2331162,
+                22.42637825
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 138,
+            "No": 138,
+            "Location": "New Town Plaza III",
+            "Latitude": 22.38007927,
+            "Longitude": 114.1870956,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Shatin",
+            "Address": "9 Shatin Centre Street, Shatin",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1870956,
+                22.380079270000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 139,
+            "No": 139,
+            "Location": "New Town Plaza I",
+            "Latitude": 22.38219452,
+            "Longitude": 114.1888046,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Shatin",
+            "Address": "18 Shatin Centre Street, Shatin",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1888046,
+                22.38219452
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 140,
+            "No": 140,
+            "Location": "Plaza Ascot",
+            "Latitude": 22.4001503,
+            "Longitude": 114.2009583,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Shatin",
+            "Address": "11 Lok King Street, Fo Tan",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2009583,
+                22.400150300000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 141,
+            "No": 141,
+            "Location": "Shatin Plaza",
+            "Latitude": 22.38379288,
+            "Longitude": 114.1895218,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Shatin",
+            "Address": "21 Shatin Centre Street, Shatin",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1895218,
+                22.38379288
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 142,
+            "No": 142,
+            "Location": "The Tolo Place",
+            "Latitude": 22.42550278,
+            "Longitude": 114.2298584,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Shatin",
+            "Address": "1 On Chun Street, Ma On Shan",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2298584,
+                22.42550278
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 143,
+            "No": 143,
+            "Location": "Sunshine City Phase IV",
+            "Latitude": 22.42353439,
+            "Longitude": 114.2311173,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Shatin",
+            "Address": "18 On Luk Street, Ma On Shan",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2311173,
+                22.42353439
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 144,
+            "No": 144,
+            "Location": "Sunshine City Phase III",
+            "Latitude": 22.42288971,
+            "Longitude": 114.2317276,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Shatin",
+            "Address": "8 On Shing Street, Ma On Shan",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2317276,
+                22.42288971
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 145,
+            "No": 145,
+            "Location": "Shatin Galleria",
+            "Latitude": 22.39685059,
+            "Longitude": 114.1934586,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Shatin",
+            "Address": "13 Shan Mei Street, Fo Tan",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1934586,
+                22.39685059
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 146,
+            "No": 146,
+            "Location": "Sheung Shui Centre",
+            "Latitude": 22.50053787,
+            "Longitude": 114.1304627,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "North",
+            "Address": "3 Chi Cheong Road, Sheung Shui",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1304627,
+                22.500537870000102
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 147,
+            "No": 147,
+            "Location": "Tseung Kwan O Plaza",
+            "Latitude": 22.30943871,
+            "Longitude": 114.2616348,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Sai Kung",
+            "Address": "1 Tong Tak Street, Tseung Kwan O",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2616348,
+                22.30943871
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 148,
+            "No": 148,
+            "Location": "PopCorn 2",
+            "Latitude": 22.30940628,
+            "Longitude": 114.2615585,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Sai Kung",
+            "Address": "1 Tong Tak Street, Tseung Kwan O",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2615585,
+                22.309406280000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 149,
+            "No": 149,
+            "Location": "PopCorn 1",
+            "Latitude": 22.3083725,
+            "Longitude": 114.2587357,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Sai Kung",
+            "Address": "9 Tong Tak Street, Tseung Kwan O",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2587357,
+                22.3083725000001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 150,
+            "No": 150,
+            "Location": "Maritime Bay",
+            "Latitude": 22.31421089,
+            "Longitude": 114.2653122,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Sai Kung",
+            "Address": "2 Man Kuk Lane, Pui Shing Road, Tseung Kwan O",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2653122,
+                22.31421089
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 151,
+            "No": 151,
+            "Location": "Luk Yeung Sun Chuen",
+            "Latitude": 22.37229347,
+            "Longitude": 114.1218491,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Tsuen Wan",
+            "Address": "22 Wai Tsuen Road, Tsuen Wan",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1218491,
+                22.37229347
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 152,
+            "No": 152,
+            "Location": "International Trade Centre",
+            "Latitude": 22.37434959,
+            "Longitude": 114.1080093,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Tsuen Wan",
+            "Address": "15 Sha Tsui Road, Tsuen Wan",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1080093,
+                22.374349590000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 153,
+            "No": 153,
+            "Location": "Town Square",
+            "Latitude": 22.37162399,
+            "Longitude": 114.1184006,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Tsuen Wan",
+            "Address": "51 Shiu Wo Street, Tsuen Wan",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1184006,
+                22.37162399
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 154,
+            "No": 154,
+            "Location": "City Landmark",
+            "Latitude": 22.37058067,
+            "Longitude": 114.1178818,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Tsuen Wan",
+            "Address": "18 Tak Hoi Street, Tsuen Wan",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1178818,
+                22.37058067
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 155,
+            "No": 155,
+            "Location": "Kowloon Shangri-la Hotel",
+            "Latitude": 22.29746819,
+            "Longitude": 114.1768875,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "64 Mody Road, Tsim Sha Tsui",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1768875,
+                22.297468190000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 156,
+            "No": 156,
+            "Location": "Wealth Commerical Centre",
+            "Latitude": 22.31679153,
+            "Longitude": 114.1735077,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "48 Kwong Wa Street, Mong Kok",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1735077,
+                22.31679153
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 157,
+            "No": 157,
+            "Location": "Park-In Commercial Centre",
+            "Latitude": 22.31546211,
+            "Longitude": 114.1712723,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "56 Dundas Street, Yau Ma Tei",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1712723,
+                22.31546211
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 158,
+            "No": 158,
+            "Location": "Elements (South)",
+            "Latitude": 22.30409622,
+            "Longitude": 114.1599731,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "Nga Cheung Road, Tsim Sha Tsui",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1599731,
+                22.304096220000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 159,
+            "No": 159,
+            "Location": "Elements (North)",
+            "Latitude": 22.30669785,
+            "Longitude": 114.1611557,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "Nga Cheung Road, Tsim Sha Tsui",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1611557,
+                22.30669785
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 160,
+            "No": 160,
+            "Location": "Hong Kong Scout Centre",
+            "Latitude": 22.30246735,
+            "Longitude": 114.1691589,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "10 Scout Path, Austin Road, Tsim Sha Tsui",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1691589,
+                22.30246735
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 161,
+            "No": 161,
+            "Location": "Aqua Marine (JUSCO Car Park)",
+            "Latitude": 22.3331871,
+            "Longitude": 114.1485748,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Sham Shui Po",
+            "Address": "8 Sham Shing Road, Lai Chi Kok",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1485748,
+                22.3331871
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 162,
+            "No": 162,
+            "Location": "Manhattan Hill",
+            "Latitude": 22.33430481,
+            "Longitude": 114.1425247,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Sham Shui Po",
+            "Address": "1 Po Lun Street, Lai Chi Kok",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1425247,
+                22.33430481
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 163,
+            "No": 163,
+            "Location": "Kowloon Plaza",
+            "Latitude": 22.33830071,
+            "Longitude": 114.1491776,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Sham Shui Po",
+            "Address": "1008 Tai Nan West Street, Cheung Sha Wan",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1491776,
+                22.33830071
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 164,
+            "No": 164,
+            "Location": "Dragon Centre",
+            "Latitude": 22.33997154,
+            "Longitude": 114.1494293,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Sham Shui Po",
+            "Address": "104-110 King Lam Street, Cheung Sha Wan",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1494293,
+                22.3399715400001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 165,
+            "No": 165,
+            "Location": "CEO Tower",
+            "Latitude": 22.33935928,
+            "Longitude": 114.1493225,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Sham Shui Po",
+            "Address": "77-79 Wing Hong Street, Cheung Sha Wan",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1493225,
+                22.3393592800001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 166,
+            "No": 166,
+            "Location": "Garden Estate  (Lotus Tower)",
+            "Latitude": 22.31766319,
+            "Longitude": 114.2173233,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "On Shin Road, Ngau Tau Kok, Kwun Tong",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2173233,
+                22.317663190000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 167,
+            "No": 167,
+            "Location": "Lower Ngau Tau Kok Estate",
+            "Latitude": 22.32070541,
+            "Longitude": 114.2156448,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "183 Ngau Tau Kok Road, Kwun Tong",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2156448,
+                22.320705410000102
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 168,
+            "No": 168,
+            "Location": "Domain",
+            "Latitude": 22.29694176,
+            "Longitude": 114.2395096,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "80 Lei Yue Mun Road, Yau Tong",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2395096,
+                22.29694176
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 169,
+            "No": 169,
+            "Location": "Octa Tower",
+            "Latitude": 22.31557846,
+            "Longitude": 114.212265,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "3 Kai Hing Road, Kowloon Bay",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.212265,
+                22.31557846
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 170,
+            "No": 170,
+            "Location": "Everest Industrial Centre",
+            "Latitude": 22.31286812,
+            "Longitude": 114.2221832,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "85 How Ming Street, Kwun Tong",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2221832,
+                22.3128681200001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 171,
+            "No": 171,
+            "Location": "Camelpaint Building",
+            "Latitude": 22.31069756,
+            "Longitude": 114.2250214,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "62 Hoi Yuen Road, Kwun Tong",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2250214,
+                22.310697560000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 172,
+            "No": 172,
+            "Location": "Proficient Industrial Centre",
+            "Latitude": 22.32268906,
+            "Longitude": 114.2082443,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "6 Wang Kwun Road, Kowloon Bay",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2082443,
+                22.322689060000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 173,
+            "No": 173,
+            "Location": "Pacific Trade Centre",
+            "Latitude": 22.31584167,
+            "Longitude": 114.212532,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "1 Kai Hing Road, Kowloon Bay",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.212532,
+                22.31584167
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 174,
+            "No": 174,
+            "Location": "Telford Plaza II",
+            "Latitude": 22.32100487,
+            "Longitude": 114.2129746,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "33 Wai Yip Street, Kwun Tong",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2129746,
+                22.32100487
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 175,
+            "No": 175,
+            "Location": "Convention Plaza (Expo Drive Central Road) Carpark",
+            "Latitude": 22.28259659,
+            "Longitude": 114.1737518,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Wan Chai",
+            "Address": "Expo Drive Central, Wan Chai",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1737518,
+                22.28259659
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 176,
+            "No": 176,
+            "Location": "Convention Plaza (Harbour Road) Carpark",
+            "Latitude": 22.28068352,
+            "Longitude": 114.175293,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Wan Chai",
+            "Address": "25 Harbour Road, Wan Chai",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.175293,
+                22.28068352
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 177,
+            "No": 177,
+            "Location": "Telford Plaza Phase 1",
+            "Latitude": 22.32219124,
+            "Longitude": 114.2132034,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "Telford Plaza Phase 1D, 33 Wai Yip Street, Kowloon Bay",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2132034,
+                22.32219124
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 178,
+            "No": 178,
+            "Location": "Sheung Tak Plaza",
+            "Latitude": 22.31041145,
+            "Longitude": 114.2580338,
+            "Type": "Quick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Sai Kung",
+            "Address": "Carpark B, Sheung Tak Plaza  2 Tong Ming Street,   Tseung Kwan O, New Territories",
+            "Provider": "CLP",
+            "ParkingNo": "B010 &amp; B011",
+            "img": "/EV/PublishingImages/sheung%20tak.JPG"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2580338,
+                22.3104114500001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 179,
+            "No": 179,
+            "Location": "Nina Tower",
+            "Latitude": 22.36882782,
+            "Longitude": 114.1139069,
+            "Type": "Quick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Tsuen Wan",
+            "Address": "Nina Tower Carpark, UB/F, 8 Yueng Uk Road, Tsuen Wan",
+            "Provider": "CLP",
+            "ParkingNo": "5-Jun",
+            "img": "/EV/PublishingImages/common/map/Entrance_Nina%20Tower.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1139069,
+                22.36882782
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 180,
+            "No": 180,
+            "Location": "Tuen Mun Town Plaza I",
+            "Latitude": 22.39351654,
+            "Longitude": 113.9767838,
+            "Type": "Quick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Tuen Mun",
+            "Address": "Tuen Mun Town Plaza Carpark, 4/F   Tuen Mun Town Plaza Ph1, 1 Tuen Shun St, Tuen Mun, NT",
+            "Provider": "CLP",
+            "ParkingNo": "4153-4154",
+            "img": "/EV/PublishingImages/EVQC%20-%20Tuen%20Mun.JPG"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113.9767838,
+                22.3935165400001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 181,
+            "No": 181,
+            "Location": "Uptown Plaza",
+            "Latitude": 22.4442234,
+            "Longitude": 114.1685028,
+            "Type": "Quick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Tai Po",
+            "Address": "Uptown Plaza Carpark, 2/F, Uptown Plaza, Tai Po",
+            "Provider": "CLP",
+            "ParkingNo": "R101",
+            "img": "/EV/PublishingImages/EVQC%20-%20Uptown%20Plaza.JPG"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1685028,
+                22.444223400000102
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 182,
+            "No": 182,
+            "Location": "Tin Shing Court",
+            "Latitude": 22.44948387,
+            "Longitude": 114.0019531,
+            "Type": "SemiQuick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Yuen Long",
+            "Address": "Tin Shing Court Carpark, 3/F, 3 Tin Ching Street, Tin Shui Wai,Yuen Long, N.T.",
+            "Provider": "CLP",
+            "ParkingNo": "3183-3186",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Tin%20Shing%20Court.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.0019531,
+                22.44948387
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 183,
+            "No": 183,
+            "Location": "Pioneer Centre",
+            "Latitude": 22.32264328,
+            "Longitude": 114.1693268,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "Pioneer Centre Car Park, 750 Nathan Road, Mong Kok, Kowloon",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "/EV/PublishingImages/Station%20Photos/Pioneer%20Centre.PNG"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1693268,
+                22.32264328
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 184,
+            "No": 184,
+            "Location": "Asia Orient Tower",
+            "Latitude": 22.27879906,
+            "Longitude": 114.1696777,
+            "Type": "SemiQuick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Wan Chai",
+            "Address": "52 Jaffe Rd, Wan Chai",
+            "Provider": "Others",
+            "ParkingNo": "Tesla only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1696777,
+                22.27879906
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 185,
+            "No": 185,
+            "Location": "Cathay Pacific City",
+            "Latitude": 22.29828262,
+            "Longitude": 113.9339066,
+            "Type": "SemiQuick",
+            "DistrictL": "Outlying Islands",
+            "DistrictS": "Outlying Islands",
+            "Address": "8 Scenic Rd, Chek Lap Kok",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113.9339066,
+                22.298282620000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 186,
+            "No": 186,
+            "Location": "Choi Hung Park-and-Ride Public Car Park",
+            "Latitude": 22.33424187,
+            "Longitude": 114.2102737,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Wong Tai Sin",
+            "Address": "2/F-8/F, No.8 Clear Water Bay Road",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2102737,
+                22.33424187
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 187,
+            "No": 187,
+            "Location": "Chung On Shopping Centre",
+            "Latitude": 22.42206764,
+            "Longitude": 114.2270813,
+            "Type": "Quick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Shatin",
+            "Address": "Sai Sha Rd, Ma On Shan",
+            "Provider": "Others",
+            "ParkingNo": "BYD only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2270813,
+                22.42206764
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 188,
+            "No": 188,
+            "Location": "Coronation Circle",
+            "Latitude": 22.30958557,
+            "Longitude": 114.1663361,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "1 Yau Cheung Rd, Yau Ma Tei",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1663361,
+                22.30958557
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 189,
+            "No": 189,
+            "Location": "Electrical and Mechanical Services Department Headquarters",
+            "Latitude": 22.32580566,
+            "Longitude": 114.2046814,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "3 Kai Shing Street, Kowloon Bay",
+            "Provider": "Others",
+            "ParkingNo": "For permitted visitor only.",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2046814,
+                22.3258056600001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 190,
+            "No": 190,
+            "Location": "Fu Shin Shopping Centre",
+            "Latitude": 22.45436859,
+            "Longitude": 114.1748352,
+            "Type": "Quick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Tai Po",
+            "Address": "12 On Po Rd, Tai Po",
+            "Provider": "Others",
+            "ParkingNo": "BYD only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1748352,
+                22.454368590000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 191,
+            "No": 191,
+            "Location": "Fu Tai Shopping Centre",
+            "Latitude": 22.41277313,
+            "Longitude": 113.9831238,
+            "Type": "Quick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Tuen Mun",
+            "Address": "9 Tuen Kwai Rd, Fu Tei, Tuen Mun",
+            "Provider": "Others",
+            "ParkingNo": "BYD only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113.9831238,
+                22.41277313
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 192,
+            "No": 192,
+            "Location": "Grand Central Plaza",
+            "Latitude": 22.3859787,
+            "Longitude": 114.1874237,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Shatin",
+            "Address": "138 Shatin Rural Committee Road &amp; Pai Tau St, Sha Tin",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1874237,
+                22.385978700000098
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 193,
+            "No": 193,
+            "Location": "Hing Wah Plaza",
+            "Latitude": 22.26282883,
+            "Longitude": 114.2362061,
+            "Type": "Quick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Eastern",
+            "Address": "11 Wan Tsui Rd, Chai Wan",
+            "Provider": "Others",
+            "ParkingNo": "BYD only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2362061,
+                22.26282883
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 194,
+            "No": 194,
+            "Location": "Hong Kong SkyCity Marriott Hotel",
+            "Latitude": 22.31929016,
+            "Longitude": 113.9435654,
+            "Type": "SemiQuick",
+            "DistrictL": "Outlying Islands",
+            "DistrictS": "Outlying Islands",
+            "Address": "1 Sky City Rd E, Chek Lap Kok",
+            "Provider": "Others",
+            "ParkingNo": "Tesla only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113.9435654,
+                22.31929016
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 195,
+            "No": 195,
+            "Location": "Hong Kong Wetland Park",
+            "Latitude": 22.46815681,
+            "Longitude": 114.0034332,
+            "Type": "SemiQuick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Yuen Long",
+            "Address": "Wetland Park Rd, Tin Shui Wai",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.0034332,
+                22.46815681
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 196,
+            "No": 196,
+            "Location": "Hotel Icon",
+            "Latitude": 22.30083084,
+            "Longitude": 114.1786423,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "17 Science Museum Road, Tsim Sha Tsui",
+            "Provider": "Others",
+            "ParkingNo": "Tesla only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1786423,
+                22.30083084
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 197,
+            "No": 197,
+            "Location": "Hotel Panorama by Rhombus",
+            "Latitude": 22.29768944,
+            "Longitude": 114.1745911,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "8A Hart Ave, Tsim Sha Tsui",
+            "Provider": "Others",
+            "ParkingNo": "Tesla only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1745911,
+                22.29768944
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 198,
+            "No": 198,
+            "Location": "InterContinental Grand Stanford Hong Kong",
+            "Latitude": 22.2990284,
+            "Longitude": 114.178215,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "70 Mody Rd, Tsim Sha Tsui",
+            "Provider": "Others",
+            "ParkingNo": "Tesla only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.178215,
+                22.2990284000001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 199,
+            "No": 199,
+            "Location": "International Commerce Centre",
+            "Latitude": 22.30381203,
+            "Longitude": 114.1604157,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "1 Austin Rd W, West Kowloon",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1604157,
+                22.303812030000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 200,
+            "No": 200,
+            "Location": "Le Meridien Cyberport",
+            "Latitude": 22.26173019,
+            "Longitude": 114.1291733,
+            "Type": "SemiQuick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Southern",
+            "Address": "100 Cyberport Rd, Hong Kong",
+            "Provider": "Others",
+            "ParkingNo": "Tesla only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1291733,
+                22.26173019
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 201,
+            "No": 201,
+            "Location": "Lee Garden 1",
+            "Latitude": 22.27820396,
+            "Longitude": 114.1849136,
+            "Type": "SemiQuick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Wan Chai",
+            "Address": "33 Hysan Ave, Causeway Bay",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1849136,
+                22.27820396
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 202,
+            "No": 202,
+            "Location": "Lee Garden 2",
+            "Latitude": 22.27823639,
+            "Longitude": 114.1860657,
+            "Type": "SemiQuick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Wan Chai",
+            "Address": "2-38 Yun Ping Rd, Causeway Bay",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1860657,
+                22.278236390000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 203,
+            "No": 203,
+            "Location": "Lee Garden 2",
+            "Latitude": 22.27823639,
+            "Longitude": 114.1860657,
+            "Type": "Quick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Wan Chai",
+            "Address": "2-38 Yun Ping Rd, Causeway Bay",
+            "Provider": "Others",
+            "ParkingNo": "Tesla only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1860657,
+                22.278236390000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 204,
+            "No": 204,
+            "Location": "Leighton Centre",
+            "Latitude": 22.27802467,
+            "Longitude": 114.1831513,
+            "Type": "SemiQuick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Wan Chai",
+            "Address": "77 Leighton Rd, Causeway Bay",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1831513,
+                22.27802467
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 205,
+            "No": 205,
+            "Location": "L&#39;hotel elan",
+            "Latitude": 22.31401253,
+            "Longitude": 114.2192307,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kwun Tong",
+            "Address": "38 Chong Yip Street, Ngau Tau Kok",
+            "Provider": "Others",
+            "ParkingNo": "Tesla only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2192307,
+                22.314012530000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 206,
+            "No": 206,
+            "Location": "L'hotel Island South",
+            "Latitude": 22.2500248,
+            "Longitude": 114.1680298,
+            "Type": "SemiQuick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Southern",
+            "Address": "55 Wong Chuk Hang Rd, Aberdeen",
+            "Provider": "Others",
+            "ParkingNo": "Tesla only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1680298,
+                22.250024800000102
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 207,
+            "No": 207,
+            "Location": "Lions Rise",
+            "Latitude": 22.33988571,
+            "Longitude": 114.1969681,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Wong Tai Sin",
+            "Address": "8 Muk Lun Street, Wong Tai Sin",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1969681,
+                22.33988571
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 208,
+            "No": 208,
+            "Location": "Lodgewood",
+            "Latitude": 22.32125473,
+            "Longitude": 114.1643677,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "1131 Canton Rd, Mong Kok",
+            "Provider": "Others",
+            "ParkingNo": "Tesla only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1643677,
+                22.321254730000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 209,
+            "No": 209,
+            "Location": "Mira Moon Hotel",
+            "Latitude": 22.27977371,
+            "Longitude": 114.1789475,
+            "Type": "SemiQuick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Wan Chai",
+            "Address": "388 Jaffe Road, Causeway Bay",
+            "Provider": "Others",
+            "ParkingNo": "Tesla only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1789475,
+                22.27977371
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 210,
+            "No": 210,
+            "Location": "Ocean Park Hong Kong",
+            "Latitude": 22.24834633,
+            "Longitude": 114.1743698,
+            "Type": "SemiQuick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Southern",
+            "Address": "Ocean Park Road, Wong Chuk Hang",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1743698,
+                22.2483463300001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 211,
+            "No": 211,
+            "Location": "Oi Man Plaza",
+            "Latitude": 22.31367302,
+            "Longitude": 114.1778259,
+            "Type": "Quick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kowloon City",
+            "Address": "60 Chung Hau Street, Ho Man Tin",
+            "Provider": "Others",
+            "ParkingNo": "BYD only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1778259,
+                22.313673020000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 212,
+            "No": 212,
+            "Location": "Olympian City 3",
+            "Latitude": 22.31708908,
+            "Longitude": 114.1653061,
+            "Type": "Standard",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "1 Hoi Wang Rd, Tai Kok Tsui",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1653061,
+                22.317089080000098
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 213,
+            "No": 213,
+            "Location": "One Island South",
+            "Latitude": 22.24874687,
+            "Longitude": 114.1667709,
+            "Type": "Standard",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Southern",
+            "Address": "2 Heung Yip Rd, Wong Chuk Hang",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1667709,
+                22.24874687
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 214,
+            "No": 214,
+            "Location": "One Midtown",
+            "Latitude": 22.37254524,
+            "Longitude": 114.105423,
+            "Type": "Standard",
+            "DistrictL": "New Territories",
+            "DistrictS": "Tsuen Wan",
+            "Address": "11 Hoi Shing Rd, Tsuen Wan",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.105423,
+                22.37254524
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 215,
+            "No": 215,
+            "Location": "One Pacific Place",
+            "Latitude": 22.27788162,
+            "Longitude": 114.1665955,
+            "Type": "Quick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Central and Western",
+            "Address": "88 Queensway, Admiralty",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1665955,
+                22.277881620000102
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 216,
+            "No": 216,
+            "Location": "One Peking",
+            "Latitude": 22.29585838,
+            "Longitude": 114.1693115,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "1 Peking Rd, Tsim Sha Tsui",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1693115,
+                22.29585838
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 217,
+            "No": 217,
+            "Location": "Regal Airport Hotel",
+            "Latitude": 22.31940079,
+            "Longitude": 113.9345017,
+            "Type": "SemiQuick",
+            "DistrictL": "Outlying Islands",
+            "DistrictS": "Outlying Islands",
+            "Address": "9 Cheong Tat Rd, Chek Lap Kok",
+            "Provider": "Others",
+            "ParkingNo": "Tesla only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113.9345017,
+                22.31940079
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 218,
+            "No": 218,
+            "Location": "Regal Hong Kong Hotel",
+            "Latitude": 22.27890968,
+            "Longitude": 114.1867371,
+            "Type": "SemiQuick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Wan Chai",
+            "Address": "88 Yee Wo Street, Causeway Bay",
+            "Provider": "Others",
+            "ParkingNo": "Tesla only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1867371,
+                22.27890968
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 219,
+            "No": 219,
+            "Location": "Regal Kowloon Hotel",
+            "Latitude": 22.29892349,
+            "Longitude": 114.1775513,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "71 Mody Rd, Tsim Sha Tsui",
+            "Provider": "Others",
+            "ParkingNo": "Tesla only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1775513,
+                22.298923490000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 220,
+            "No": 220,
+            "Location": "Regal Oriental Hotel",
+            "Latitude": 22.33016205,
+            "Longitude": 114.192749,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Kowloon City",
+            "Address": "30 Sa Po Road, Kowloon City",
+            "Provider": "Others",
+            "ParkingNo": "Tesla only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.192749,
+                22.330162050000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 221,
+            "No": 221,
+            "Location": "Regal Riverside Hotel",
+            "Latitude": 22.38222885,
+            "Longitude": 114.196907,
+            "Type": "SemiQuick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Shatin",
+            "Address": "34-36 Tai Chung Kiu Road, Shatin",
+            "Provider": "Others",
+            "ParkingNo": "Tesla only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.196907,
+                22.38222885
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 222,
+            "No": 222,
+            "Location": "Royal Garden Hotel",
+            "Latitude": 22.29865646,
+            "Longitude": 114.1773377,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "69 Mody Rd, Tsim Sha Tsui",
+            "Provider": "Others",
+            "ParkingNo": "Tesla only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1773377,
+                22.2986564600001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 223,
+            "No": 223,
+            "Location": "Royal Park Hotel",
+            "Latitude": 22.37955666,
+            "Longitude": 114.1888351,
+            "Type": "SemiQuick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Shatin",
+            "Address": "8 Pak Hok Ting Street, Shatin",
+            "Provider": "Others",
+            "ParkingNo": "Tesla only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1888351,
+                22.37955666
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 224,
+            "No": 224,
+            "Location": "Royal Plaza Hotel",
+            "Latitude": 22.32479668,
+            "Longitude": 114.1731796,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "193 Prince Edward Road West, Kowloon",
+            "Provider": "Others",
+            "ParkingNo": "Tesla only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1731796,
+                22.324796680000102
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 225,
+            "No": 225,
+            "Location": "Royal View Hotel",
+            "Latitude": 22.36917877,
+            "Longitude": 114.0781326,
+            "Type": "SemiQuick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Tsuen Wan",
+            "Address": "353 Castle Peak Road, Ting Kau, Tsuen Wan",
+            "Provider": "Others",
+            "ParkingNo": "Tesla only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.0781326,
+                22.369178770000101
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 226,
+            "No": 226,
+            "Location": "Sun Hung Kai Centre",
+            "Latitude": 22.28011703,
+            "Longitude": 114.1765823,
+            "Type": "SemiQuick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Wan Chai",
+            "Address": "Harbour Rd, Wan Chai",
+            "Provider": "Others",
+            "ParkingNo": "Tesla only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1765823,
+                22.28011703
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 227,
+            "No": 227,
+            "Location": "Tai Tong Lychee Garden",
+            "Latitude": 22.41354942,
+            "Longitude": 114.0255966,
+            "Type": "Quick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Yuen Long",
+            "Address": "Tai Tong Shan Rd, Yuen Long",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.0255966,
+                22.41354942
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 228,
+            "No": 228,
+            "Location": "The Pulse",
+            "Latitude": 22.23596191,
+            "Longitude": 114.1978912,
+            "Type": "SemiQuick;Quick",
+            "DistrictL": "Hong Kong Island",
+            "DistrictS": "Southern",
+            "Address": "28 Beach Rd, Repulse Bay",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1978912,
+                22.2359619100001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 229,
+            "No": 229,
+            "Location": "The Wings 2",
+            "Latitude": 22.30846214,
+            "Longitude": 114.2609253,
+            "Type": "SemiQuick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Sai Kung",
+            "Address": "12 Tong Chun Street, Tseung Kwan O",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2609253,
+                22.308462140000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 230,
+            "No": 230,
+            "Location": "V City",
+            "Latitude": 22.39587402,
+            "Longitude": 113.9718475,
+            "Type": "SemiQuick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Tuen Mun",
+            "Address": "83 Heung Sze Wui Road, Tuen Mun",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113.9718475,
+                22.3958740200001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 231,
+            "No": 231,
+            "Location": "W Hong Kong",
+            "Latitude": 22.30467796,
+            "Longitude": 114.1602478,
+            "Type": "SemiQuick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "1 Austin Road West, Kowloon Station, West Kowloon",
+            "Provider": "Others",
+            "ParkingNo": "Tesla only",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1602478,
+                22.30467796
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 232,
+            "No": 232,
+            "Location": "Yoho Mall Phase I",
+            "Latitude": 22.44268227,
+            "Longitude": 114.036911,
+            "Type": "Quick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Yuen Long",
+            "Address": "9 Yuen Lung Street, Yuen Long",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.036911,
+                22.44268227
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 233,
+            "No": 233,
+            "Location": "Yoho Mall Phase II",
+            "Latitude": 22.44566154,
+            "Longitude": 114.0336304,
+            "Type": "Quick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Yuen Long",
+            "Address": "8 Long Yat Road, Yuen Long",
+            "Provider": "Others",
+            "ParkingNo": "null",
+            "img": "null"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.0336304,
+                22.445661540000099
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 234,
+            "No": 234,
+            "Location": "Heung Yee Kuk Building",
+            "Latitude": 22.39035034,
+            "Longitude": 114.2061462,
+            "Type": "Quick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Shatin",
+            "Address": "30 On Muk Street, Shek Mun, Shatin, N.T.",
+            "Provider": "CLP",
+            "ParkingNo": "16, 17",
+            "img": "/EV/PublishingImages/Station%20Photos/Heung%20Yee%20Kuk.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2061462,
+                22.39035034
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 235,
+            "No": 235,
+            "Location": "Sunshine City Phase 4",
+            "Latitude": 22.42426491,
+            "Longitude": 114.2332687,
+            "Type": "Quick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Shatin",
+            "Address": "26 On Shing Street, Ma On Shan, N.T.",
+            "Provider": "CLP",
+            "ParkingNo": "268, 269, 283, 284",
+            "img": "/EV/PublishingImages/Station%20Photos/Sunshine%20City.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2332687,
+                22.42426491
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 236,
+            "No": 236,
+            "Location": "Jockey Club Kau Sai Chau Golf Course Public Car Park",
+            "Latitude": 22.38476372,
+            "Longitude": 114.2767029,
+            "Type": "Quick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Sai Kung",
+            "Address": "Jockey Club Kau Sai Chau Golf Course Public Car Park, G/F, 18 Wai Man Road, Sai Kung",
+            "Provider": "CLP",
+            "ParkingNo": "1-Mar",
+            "img": "/EV/PublishingImages/Station%20Photos/Kau%20Sai%20Chau.JPG"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.2767029,
+                22.38476372
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 237,
+            "No": 237,
+            "Location": "Wah Sum Car Park",
+            "Latitude": 22.48666573,
+            "Longitude": 114.1432571,
+            "Type": "Quick",
+            "DistrictL": "New Territories",
+            "DistrictS": "North",
+            "Address": "Wah Sum Shopping Centre, 18 Yat Ming Road, Fanling, New Territories",
+            "Provider": "CLP",
+            "ParkingNo": "3-May",
+            "img": "/EV/PublishingImages/Station%20Photos/Wah%20Sum.JPG"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1432571,
+                22.48666573
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 238,
+            "No": 238,
+            "Location": "Cheung On Estate",
+            "Latitude": 22.3608036,
+            "Longitude": 114.1044617,
+            "Type": "Quick",
+            "DistrictL": "New Territories",
+            "DistrictS": "Kwai Tsing",
+            "Address": "L1/F, Cheung On Estate Carpark, 1 Tam Kon Shan Road, Nga Ying Chau, Tsing Yi, N.T.",
+            "Provider": "CLP",
+            "ParkingNo": "P119, P120",
+            "img": "/EV/PublishingImages/Station%20Photos/Cheung%20On.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1044617,
+                22.3608036000001
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "OBJECTID": 239,
+            "No": 239,
+            "Location": "Ocean Terminal",
+            "Latitude": 22.29561424,
+            "Longitude": 114.1693268,
+            "Type": "Quick",
+            "DistrictL": "Kowloon",
+            "DistrictS": "Yau Tsim Mong",
+            "Address": "Ocean Terminal Carpark (Harbour City), 4/F 3-27 Canton Rd, Tsimshatsui, Kln",
+            "Provider": "CLP",
+            "ParkingNo": "1248-1249, 1349",
+            "img": "/EV/PublishingImages/common/map/map_thumb/Entrance_Ocean%20Terminal_large.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.1693268,
+                22.295614240000099
+            ]
+        }
+    }
+]
