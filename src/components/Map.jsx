@@ -68,27 +68,17 @@ const Map = () => {
 
         <EsriLeafletGeoSearch
           position="topright"
-          useMapBounds="14"
+          useMapBounds={false}
           placeholder="Search for places or addresses"
           providers={{
             arcgisOnlineProvider: {
               apikey: ARCGIS_API_KEY,
+              countries: "HKG",
            },
-            featureLayerProvider: {
-              url: "https://services.arcgis.com/...FeatureServer/0",
-              searchFields: ["event_name", "host_organization"],
-              bufferRadius: 5000,
-              formatSuggestion: function (feature) {
-                return (
-                  feature.properties.event_name +
-                  " - " +
-                  feature.properties.host_organization
-                );
-              },
-            },
           }}
           key={ARCGIS_API_KEY}
         />
+        
       </MapContainer>
 
     </>
