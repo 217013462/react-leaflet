@@ -3,7 +3,7 @@ import { MapContainer, TileLayer, useMap, LayersControl, LayerGroup, ScaleContro
 import { geosearch } from 'esri-leaflet-geocoder'
 import L from 'leaflet'
 import ResetViewControl from '@20tab/react-leaflet-resetview'
-//import EsriLeafletGeoSearch from "react-esri-leaflet/plugins/EsriLeafletGeoSearch"
+import EsriLeafletGeoSearch from "react-esri-leaflet/plugins/EsriLeafletGeoSearch"
 
 import '../css/Map.css'
 
@@ -18,6 +18,8 @@ import CLPEv from './CLPEv'
 const center = [22.2992961, 114.1894218]
 const zoom = 14
 const hkBounds = ([[22.1244,113.8094],[22.6089,114.4549]])
+
+const ARCGIS_API_KEY = "AAPKa7573abe34204f70b7730e40efc239eaVnxK6n5xQ7B5_BUiDR1_6ej9D4xL3dfW6yQXQ7CfmD6tgfjJlLu6V13NY0GnIdjT"
 
 const Map = () => {
 
@@ -36,7 +38,7 @@ const Map = () => {
         <ScaleControl imperial={false} />
         <TrafficNews />
         <CurrentLocation />
-        <AddIncident />
+        <AddIncident />        
         <TileLayer
           attribution='&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'
           url="https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png?api_key=ab019d63-891a-4828-96e5-13d85de98400"
@@ -63,6 +65,30 @@ const Map = () => {
             </LayerGroup>
           </LayersControl.Overlay>
         </LayersControl>
+
+        <EsriLeafletGeoSearch
+          position="topright"
+          useMapBounds="14"
+          placeholder="Search for places or addresses"
+          providers={{
+            arcgisOnlineProvider: {
+              apikey: ARCGIS_API_KEY,
+           },
+            featureLayerProvider: {
+              url: "https://services.arcgis.com/...FeatureServer/0",
+              searchFields: ["event_name", "host_organization"],
+              bufferRadius: 5000,
+              formatSuggestion: function (feature) {
+                return (
+                  feature.properties.event_name +
+                  " - " +
+                  feature.properties.host_organization
+                );
+              },
+            },
+          }}
+          key={ARCGIS_API_KEY}
+        />
       </MapContainer>
 
     </>
