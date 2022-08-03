@@ -113,6 +113,8 @@ const AddIncident = () => {
               <Option value="Standstill Traffic">Standstill Traffic</Option>
               <Option value="Crash">Crash</Option>
               <Option value="Road Hazard">Road Hazard</Option>
+              <Option value="Road Block">Road Block</Option>
+              <Option value="Closure">Closure</Option>
             </Select>  
           </Form.Item>
           <Form.Item name="description" label="Description">
